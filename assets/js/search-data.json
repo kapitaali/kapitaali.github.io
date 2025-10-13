@@ -1,2 +1,394 @@
-{
+{"0": {
+    "doc": "01. Transaction Processing Systems",
+    "title": "01. Transaction Processing Systems",
+    "content": "Click for the PDF file . ",
+    "url": "/01/01.html",
+    
+    "relUrl": "/01/01.html"
+  },"1": {
+    "doc": "02. Programming Capabilities",
+    "title": "02. Programming Capabilities",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/02/02.html",
+    
+    "relUrl": "/02/02.html"
+  },"2": {
+    "doc": "03. Introduction to Language Environment",
+    "title": "03. Introduction to Language Environment",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/03/03.html",
+    
+    "relUrl": "/03/03.html"
+  },"3": {
+    "doc": "04. Batch Systems",
+    "title": "04. Batch Systems",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/04/04.html",
+    
+    "relUrl": "/04/04.html"
+  },"4": {
+    "doc": "05. Understanding Batch Processing",
+    "title": "05. Understanding Batch Processing",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/05/05.html",
+    
+    "relUrl": "/05/05.html"
+  },"5": {
+    "doc": "06. JCL Coding Requirements",
+    "title": "06. JCL Coding Requirements",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/06/06.html",
+    
+    "relUrl": "/06/06.html"
+  },"6": {
+    "doc": "07. What is WebSphere Application Server?",
+    "title": "07. What is WebSphere Application Server?",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/07/07.html",
+    
+    "relUrl": "/07/07.html"
+  },"7": {
+    "doc": "08. WebSphere Application Server for z/OS",
+    "title": "08. WebSphere Application Server for z/OS",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/08/08.html",
+    
+    "relUrl": "/08/08.html"
+  },"8": {
+    "doc": "09. Overview of DB2",
+    "title": "09. Overview of DB2",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/09/09.html",
+    
+    "relUrl": "/09/09.html"
+  },"9": {
+    "doc": "10. DB2 Internals",
+    "title": "10. DB2 Internals",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/10/10.html",
+    
+    "relUrl": "/10/10.html"
+  },"10": {
+    "doc": "11. Overview of SQL",
+    "title": "11. Overview of SQL",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/11/11.html",
+    
+    "relUrl": "/11/11.html"
+  },"11": {
+    "doc": "12. SQL and SPUFI",
+    "title": "12. SQL and SPUFI",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/12/12.html",
+    
+    "relUrl": "/12/12.html"
+  },"12": {
+    "doc": "13. Introduction to DB2 Relational Databases and SQL",
+    "title": "13. Introduction to DB2 Relational Databases and SQL",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/13/13.html",
+    
+    "relUrl": "/13/13.html"
+  },"13": {
+    "doc": "14. The DB2 Server Alternatives",
+    "title": "14. The DB2 Server Alternatives",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/14/14.html",
+    
+    "relUrl": "/14/14.html"
+  },"14": {
+    "doc": "15. DB2 for z/OS Implementation",
+    "title": "15. DB2 for z/OS Implementation",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/15/15.html",
+    
+    "relUrl": "/15/15.html"
+  },"15": {
+    "doc": "16. Defining Database Objects",
+    "title": "16. Defining Database Objects",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/16/16.html",
+    
+    "relUrl": "/16/16.html"
+  },"16": {
+    "doc": "17. DDL - Defining a Table",
+    "title": "17. DDL - Defining a Table",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/17/17.html",
+    
+    "relUrl": "/17/17.html"
+  },"17": {
+    "doc": "18. Referential Integrity",
+    "title": "18. Referential Integrity",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/18/18.html",
+    
+    "relUrl": "/18/18.html"
+  },"18": {
+    "doc": "19. Using SPUFI and IBM Data Studio to access DB2",
+    "title": "19. Using SPUFI and IBM Data Studio to access DB2",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/19/19.html",
+    
+    "relUrl": "/19/19.html"
+  },"19": {
+    "doc": "20. Viewing Database Objects - The Catalog",
+    "title": "20. Viewing Database Objects - The Catalog",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/20/20.html",
+    
+    "relUrl": "/20/20.html"
+  },"20": {
+    "doc": "21. Embedding SQL in an Application Program",
+    "title": "21. Embedding SQL in an Application Program",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/21/21.html",
+    
+    "relUrl": "/21/21.html"
+  },"21": {
+    "doc": "22. Manipulating Data and Components of an Application Program",
+    "title": "22. Manipulating Data and Components of an Application Program",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/22/22.html",
+    
+    "relUrl": "/22/22.html"
+  },"22": {
+    "doc": "23. Using Cursors to Reference Table Data",
+    "title": "23. Using Cursors to Reference Table Data",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/23/23.html",
+    
+    "relUrl": "/23/23.html"
+  },"23": {
+    "doc": "24. Commits and Savepoints",
+    "title": "24. Commits and Savepoints",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/24/24.html",
+    
+    "relUrl": "/24/24.html"
+  },"24": {
+    "doc": "25. Writing a DB2 COBOL Program",
+    "title": "25. Writing a DB2 COBOL Program",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/25/25.html",
+    
+    "relUrl": "/25/25.html"
+  },"25": {
+    "doc": "26. Writing a DB2 COBOL Cursor Update Program",
+    "title": "26. Writing a DB2 COBOL Cursor Update Program",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/26/26.html",
+    
+    "relUrl": "/26/26.html"
+  },"26": {
+    "doc": "27. Introducing Stored Procedures",
+    "title": "27. Introducing Stored Procedures",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/27/27.html",
+    
+    "relUrl": "/27/27.html"
+  },"27": {
+    "doc": "28. Introducing DB2 Stored Procedures on z/OS",
+    "title": "28. Introducing DB2 Stored Procedures on z/OS",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/28/28.html",
+    
+    "relUrl": "/28/28.html"
+  },"28": {
+    "doc": "29. General DB2 Operations",
+    "title": "29. General DB2 Operations",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/29/29.html",
+    
+    "relUrl": "/29/29.html"
+  },"29": {
+    "doc": "30. Monitoring and Resolving DB2 Operational Problems",
+    "title": "30. Monitoring and Resolving DB2 Operational Problems",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/30/30.html",
+    
+    "relUrl": "/30/30.html"
+  },"30": {
+    "doc": "31. Identifying and Resolving DB2 System Problems",
+    "title": "31. Identifying and Resolving DB2 System Problems",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/31/31.html",
+    
+    "relUrl": "/31/31.html"
+  },"31": {
+    "doc": "32. CICS Startup and Shutdown",
+    "title": "32. CICS Startup and Shutdown",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/32/32.html",
+    
+    "relUrl": "/32/32.html"
+  },"32": {
+    "doc": "33. Identifying CICS Problems",
+    "title": "33. Identifying CICS Problems",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/33/33.html",
+    
+    "relUrl": "/33/33.html"
+  },"33": {
+    "doc": "34. Interpreting CICS Messages",
+    "title": "34. Interpreting CICS Messages",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/34/34.html",
+    
+    "relUrl": "/34/34.html"
+  },"34": {
+    "doc": "35. Entering CICS Commands",
+    "title": "35. Entering CICS Commands",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/35/35.html",
+    
+    "relUrl": "/35/35.html"
+  },"35": {
+    "doc": "36. Resolving CICS Problems",
+    "title": "36. Resolving CICS Problems",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/36/36.html",
+    
+    "relUrl": "/36/36.html"
+  },"36": {
+    "doc": "37. Basic Features of the REXX Language",
+    "title": "37. Basic Features of the REXX Language",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/37/37.html",
+    
+    "relUrl": "/37/37.html"
+  },"37": {
+    "doc": "38. Executing REXX Programs in TSO/E",
+    "title": "38. Executing REXX Programs in TSO/E",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/38/38.html",
+    
+    "relUrl": "/38/38.html"
+  },"38": {
+    "doc": "39. REXX Terms, Variables and Operators",
+    "title": "39. REXX Terms, Variables and Operators",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/39/39.html",
+    
+    "relUrl": "/39/39.html"
+  },"39": {
+    "doc": "40. REXX Conversational and Variable Management Instructions",
+    "title": "40. REXX Conversational and Variable Management Instructions",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/40/40.html",
+    
+    "relUrl": "/40/40.html"
+  },"40": {
+    "doc": "41. Logic Flow - Conditional Processing",
+    "title": "41. Logic Flow - Conditional Processing",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/41/41.html",
+    
+    "relUrl": "/41/41.html"
+  },"41": {
+    "doc": "42. Logic Flow - Looping",
+    "title": "42. Logic Flow - Looping",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/42/42.html",
+    
+    "relUrl": "/42/42.html"
+  },"42": {
+    "doc": "43. Execution Control Instructions",
+    "title": "43. Execution Control Instructions",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/43/43.html",
+    
+    "relUrl": "/43/43.html"
+  },"43": {
+    "doc": "44. String Functions",
+    "title": "44. String Functions",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/44/44.html",
+    
+    "relUrl": "/44/44.html"
+  },"44": {
+    "doc": "45. Text and Word Functions",
+    "title": "45. Text and Word Functions",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/45/45.html",
+    
+    "relUrl": "/45/45.html"
+  },"45": {
+    "doc": "46. Numeric, Justification and Conversion Functions",
+    "title": "46. Numeric, Justification and Conversion Functions",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/46/46.html",
+    
+    "relUrl": "/46/46.html"
+  },"46": {
+    "doc": "47. REXX Environment Functions",
+    "title": "47. REXX Environment Functions",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/47/47.html",
+    
+    "relUrl": "/47/47.html"
+  },"47": {
+    "doc": "48. File Processing Functions",
+    "title": "48. File Processing Functions",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/48/48.html",
+    
+    "relUrl": "/48/48.html"
+  },"48": {
+    "doc": "49. TSO/E REXX Execution and Buffer Control Commands",
+    "title": "49. TSO/E REXX Execution and Buffer Control Commands",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/49/49.html",
+    
+    "relUrl": "/49/49.html"
+  },"49": {
+    "doc": "50. TSO/E File Control",
+    "title": "50. TSO/E File Control",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/50/50.html",
+    
+    "relUrl": "/50/50.html"
+  },"50": {
+    "doc": "51. TSO/E External Functions",
+    "title": "51. TSO/E External Functions",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/51/51.html",
+    
+    "relUrl": "/51/51.html"
+  },"51": {
+    "doc": "52. z/OS Host Command Environments",
+    "title": "52. z/OS Host Command Environments",
+    "content": "Click for the PDF file . &lt;/body&gt; &lt;/html&gt; . ",
+    "url": "/52/52.html",
+    
+    "relUrl": "/52/52.html"
+  },"52": {
+    "doc": "About",
+    "title": "About",
+    "content": "The reason for providing these materials is twofold. Firstly, spreading knowledge and information about mainframes to the younger generation is greatly needed. The older generations are retiring, and their knowledge is invaluable. Passing this knowledge on to the next generation will aid in the transition. Secondly, reading this material will not give you the required badges and certificates. If you are interested in getting a badge/cert, please refer to the following: . Interskill’s IBM mainframe courses . Interskill at Credly . Sign up for free to IBM ZXplore academic courses . More at IBM academic initiative . ",
+    "url": "/about.html",
+    
+    "relUrl": "/about.html"
+  },"53": {
+    "doc": "Array Programming",
+    "title": "Array Programming",
+    "content": "Array programming is serious fun. I’m not much of a programmer, in fact I’ve hated it most of my life (at least ‘til my 40s). But array programming paradigm is something different. It’s one of those things that you discover, where all the cool kids are. It’s a scene of its own. While traditional programming considers itself with memory slots and variables pointing to those slots, array programming is something different. Array programming treats arrays as the fundamental data item. Originally it was developed as a math notation by Kenneth Iverson in the 1950s. After Iverson published his book A Programming Language, the name APL was coined. APL was used from the beginning in describing algorithms. Consider the following example from Iverson’s aforementioned book: . The diagram illustrates a complete flow of an algorithmic program computing matrix multiplication. A program begins at a point indicated by an entry arrow, and ends at a point indicated by an exit arrow. Iverson provides the following description for the program: “Steps 1-3 initialize the indices, and the loop 5-7 continues to add successive products to the partial sum until &amp; reaches zero. When this occurs, the process continues through step 8 to decrement j and to repeat the entire summation for the new value of j, providing that it is not zero. If j is zero, the branch to step 10 decrements j and the entire process over j and &amp; is repeated from j = v(B), providing that j is not zero. If j is zero, the process is complete, as indicated by the exit arrow.” . APL has since significantly moved forward, but the core conventions and algorithmic thinking is what sets apart array programming from procedural programming. I’m especially fond of the newer languages that APL has spawned. One of them is called Kap by Elias Mårtensson. It provides an APL-like syntax with a programming environment running in the JVM. And it’s being constantly developed. And in some ways it’s a newcomer friendly. Consider the following example: . def print_hi(name) puts \"Hi, #{name}\" end print_hi('Tom') #=&gt; prints 'Hi, Tom' to STDOUT. written in Kap: . ∇ print_hi (name) { io:println \"Hi, \",⍕name } print_hi \"Tom\" ⍝=&gt; prints 'Hi, Tom' to STDOUT. Easy, isn’t it? . ",
+    "url": "/array.html",
+    
+    "relUrl": "/array.html"
+  },"54": {
+    "doc": "Learn Kap in 10 minutes",
+    "title": "Learn Kap in 10 minutes",
+    "content": "I adapted this from the BQN tutorial, originally by razetime. ⍝ This is a comment. ⍝ The character ⋄ is statement separator. ⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝ ⍝ Main datatypes ⍝ ⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝ ⍝ Numbers 1 2 3 4 ⍝ a four element array, can be defined with or without , ¯1,¯2,¯3 ⍝ Negative numbers are written with a high minus π←math:pi ⍝ Variable assignment is done with ← ∞←math:inf π,∞,¯π,¯∞ ⍝ Define nicer looking variable names for Pi and Infinity 1.3E4 ⍝ Scientific notation is supported ⍝ Keywords default:foo ⍝ all symbols belong to a namespace :foo ⍝ if the namespace is blank, it is assumed to be a keyword ⍝ Characters @a, @⥊ ⍝ @ in front of character tells it's a single character ⍝ and not a string ⍝ Arrays 1 2 3 ⍝ an array of 3 numbers (1,2,3) ⍝ General array notation (1;2;3) ⍝ with semicolons it is 3-tuple, a container for values (different from an array) \"asdf\" ⍝ Character array (String) \"newline separated\"&lt;span style=\"color:#207BB8;font-style:italic;font-weight:bold&gt; ⍝ Allows newlines&lt;/span&gt; \"quo\\\"tes\"&lt;span style=\"color:#207BB8;font-style:italic;font-weight:bold;&gt; ⍝ Escape a double quote by adding \\ in front&lt;/span&gt; ⍝ Functions 1{⍺+⍵}3 ⍝ All functions are infix ⍝ ⍺ is left argument, ⍵ is right argument {-⍵}5 ⍝ ⍺ can be omitted 1+3 ⍝ Same as the above ∇ leftArg myFun rightArg &lt;span style=\"color:#207BB8;font-style:italic;font-weight:bold;&gt;{ ⍝ Functions can have headers&lt;/span&gt; leftArg+rightArg ⍝ Headers can define arity } ⍝ Trains and forks (Special form of function composition) +/«÷»≢ ⍝ Average (but how?) ⍝ The above fork is an F G H fork, where ⍝ (F«G»H) ⍵ → (F ⍵) G (H ⍵) ⍝ F ⇐ +/, G ⇐ ÷, H ⇐ ≢ ⍝ In explicit form, this is {(+/⍵)÷≢⍵} ⍝ The second pattern is (f g) ⍵ → f g ⍵. ⍝ longer trains are complex arrangements of these patterns. ⍝ Read more about forks and trains at https://kapdemo.dhsdevelopments.com/reference.html ⍝ Evaluation order: ⍝ Kap evaluates functions right to left with no precedence rules governing *functions*. ⍝ Functions are what one would call operators in a mainstream language. 1÷2+3 ⍝ 1÷(2+3) = 1/5 (1÷2)+3 ⍝ ((1÷2)+3) = 7/2 ⍝ Modifiers: ⍝ Modifiers are higher order functions, and bind tighter than functions. ⍝Modifiers execute left to right. + 1+⍨2+⍥-⍛×3 ⍝ 1(+⍨)(2((+⍥-)⍛×)3) ⍝ Variables ⍝ Since the case of a variable matters to determine what it means, Kap variables are ⍝ *case insensitive*. Variable assignment is done with ←, functions with ⇐. subject ← 1 2 3 ⍝ an array, defined with ← ⍝ first letter in name can be in any case function ⇐ {⍺+⍵} ⍝ a function ⍝ An existing name can be reassigned with ←/⇐. function ⇐ { \"Hello, \",⍕⍵ } ⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝ ⍝ Kap Primitives ⍝ ⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝ ⍝ All of Kap's base primitives are a single character long. ⍝ Refer to https://kapdemo.dhsdevelopments.com/reference.html for examples. ⍝ Here we will look at a few primitives from each section. You will want ⍝ to consult the docs for detailed explanations. ⍝ Primitive Functions ⍝ Almost all Kap base functions can take one or two arguments. ⍝ Usually the two overloads for a function are related. ⍝⍝ Arithmetic Functions +, -, ×, ÷ ⍝ Add, Subtract, Signum/Multiply, Reciprocal/Divide ⍝ '*' does NOT do multiplication ⍝ ⌊⍛÷ does floor division √, * ⍝ Square root/Nth root, e^x/Power ⍝ All Arithmetic functions vectorize: 1 + 2 3 4 ⍝≡ 3 4 5 1 2 3 + 2 3 4 ⍝≡ 3 5 7 ⍝ Character arithmetic(+ and - only): \"abc\"+3 ⍝≡ \"def\" @a-@d ⍝≡ ¯3 ⍝⍝ Logic Functions ∧, ∨, ¬ ⍝ For Booleans, return 1 or 0 ≤, &#x3C;, &gt;, ≥, = ⍝ Vectorizing comparisons ≡, ≢ ⍝ Nonvectorizing comparisons ⍝⍝ Array manipulation Functions ⍳ ⍝ Make a range , ⍪ ⍮ ⍝ Joining arrays together a←1 2 3⋄b←4 5 ⍝ Let us take a and b. a,b ⍝≡ 1 2 3 4 5 a⍪b ⍝ Same as previous, since a and b are not multidimensional a⍮b ⍝≡ (1 2 3) (4 5) ⊃, ⊇ ⍝ Indexing 1⊃1 2 3 ⍝≡ 2 (Kap is 0-indexed) 1 2⊇1 2 3 ⍝≡ 2 3 (for multiple indices) ↑, ↓ ⍝ Getting a prefix, suffix of an array. ⍝ together they can be used for slicing ⍴ ⍝ Reshape/repeat items to create a new array ⍝ Primitive 1-Modifiers ⍝⍝ Looping combinators ¨, ⍤ ⍝ Mapping/Zipping /, ⌿ ⍝ Fold from right \\, ⍀ ⍝ Scan from left ⍝⍝ General combinators ⍨ ⍝ duplicate argument/swap args - Very useful! 1 -⍨ 2 ⍝≡ 2 - 1 +⍨ 2 ⍝≡ 2 + 2 ⍝⍝ General Combinators ∘, ⍛ ⍝ hook, hookf ∘, ⍥ ⍝ simple function composition ⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝ ⍝ Blocks ⍝ ⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝ ⍝ Code delimited by {} ⍝ Lexically scoped ⍝ A block is automatically inferred from its special variables (⍺, ⍵, ...). ⍝ Function blocks ⍝ defined with a ∇, has a header and a body ⍝ Implicit variables: ⍝ - ⍺ left argument ⍝ - ⍵ right argument ⍝ ⍝ ∇ header { ⍝ body ⍝ } ⍝ ⍝ The header has the following possible forms: ⍝ name — Declare a function named name. In body, the left argument ⍝ is accessed using ⍺ and the right argument using ⍵. ⍝ name x — The right argument is accessed using the name x. ⍝ The left argument is not accessible. ⍝ x name y — The left argument is accessed using the name x, ⍝ and the right argument has the name y. ⍝ (a;b) name (d;e) — The left and right arguments are assumed to be ⍝ n-tuples and are destructured prior to evaluating the body. ⍝ (a name) x — Monadic operator deriving a monadic function. ⍝ x (a name b) y — Dyadic operator deriving a dyadic function. ⍝ Finds prime factors of a number ∇ primeFactors n &lt;span style=\"color:#207BB8;font-style:italic;font-weight:bold;&gt;{ &lt;/span&gt; pf ⇐ { (⍺=1) → ⍬ if (0=⍵|⍺) { ⍵, ((⍺÷⍵) pf ⍵) } else { ⍺ pf (⍵+1) } } (n pf 2) } ⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝ ⍝ Basic constructs ⍝ ⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝⍝ ⍝ Functional programming ⍝ ¨ is used for mapping, as discussed before: {⍵,2}¨1 2 3 ⍝≡ (1 2) (2 2) (3 2) ⍝ ,¨ is a plain zip, which produces pairs. ⍝ ¨ acts as a zipWith when used with two arguments: 1 2 3 {(⍵+2) (2⍴⍺)} 4 5 6 ⍝≡ (6 7 8) (1 2) ⍝ / is replicate, which serves several purposes *including* filtering. ⍝ elements in ⍵ are repeated by the corresponding number in ⍺. 1 2 3 0/4 5 6 7 ⍝≡ 4 5 5 6 6 6 ⍝ a simple filter idiom is F⍛/ {2|⍵}⍛/67 42 83 ⍝ keep the odd elements ⍝≡ 67 83 ⍝ Conditionals ⍝ There are two main ways to define a conditional. ⍝⍝ a when clause { when { (⍵ &gt; 2) { \"greater than 2\" } (⍵ &#x3C; 2) { \"lesser than 2\" } (1) { \"equal to 2\" } } } ⍝⍝ if clauses { if (⍵&#x3C;2) {\"lesser than 2\"} else { if (⍵&gt;2) {\"greater than 2\"} else {\"equal to 2\"} } } 5 ⍝ Looping ⍝ The primary form of unbounded looping is a while clause. { n ← ⍵ while (n&gt;0) { io:println n ⋄ n ← n-1 } } 4 ⍝ You can also do recursion (with a named function). ⍝ This example is from Structure and Implementation of Computer Programs: ∇ sqrt x &lt;span style=\"color:#207BB8;font-style:italic;font-weight:bold;&gt;{ &lt;/span&gt; improve ⇐ { (⍵+(x÷⍵))÷2 } goodenough ⇐ { 0.001&gt;|(⍵×⍵)-x } try ⇐ { if (goodenough ⍵) { ⍵ } else { try (improve ⍵) } } (try 1) } . ",
+    "url": "/array/learn.html",
+    
+    "relUrl": "/array/learn.html"
+  },"55": {
+    "doc": "Mainframe Resources",
+    "title": "Mainframe Resources",
+    "content": "Welcome to mainframe resources page. Here you will find PDF slides from Interskill courses offered by IBM’s academic initiative. You may sign up to the courses yoursef at ibm.com. These slides are by no means perfect or complete, but they will give you an overview of the courses and also help you get to know the system. Do also check out the ABCs of z/OS System Programming for more in-depth undestanding of z/OS internals. Some Redbooks: . | Introduction to the New Mainframe: z/OS Basics | ABCs of IBM z/OS System Programming Volume 1: TSO/E, ISPF, JCL, and SDSF, z/OS Maintenance and Storage concepts | ABCs of IBM z/OS System Programming Volume 2: Daily maintenance, subsystems, Job management, JES2, Libraries, Language environment | ABCs of IBM z/OS System Programming Volume 3: DFSMS, Data sets, Extended address volumes, Storage management | ABCs of z/OS System Programming: Volume 4: SNA, TCP/IP, Hardware interfaces, Routing, Parallel Sysplex, TCP/IP applications | ABCs of z/OS System Programming: Volume 5: Base and Parallel Sysplex, GRS, System logger, GDPS, Availability | ABCs of z/OS System Programming: Volume 6: Security, RACF, SAF, Cryptography | ABCs of z/OS System Programming Volume 7: Printing, Infoprint Server, NeSpool, Infoprint Central | ABCs of z/OS System Programming Volume 8: Diagnosis fundamentals, IPCS, Dump analysis, Diagnostic procedures | ABCs of z/OS System Programming: Volume 9: z/OS UNIX, File System, UNIX security, Shell programming and tools | ABCs of z/OS System Programming Volume 10: z/Architecture, Z Connectivity, Virtualization, Logical partitions | ABCs of z/OS System Programming Volume 11: Capacity planning, Performance management, RMF, SMF | ABCs of z/OS System Programming Volume 12: Workload Manager, WLM policy and functions, WLM ISPF application | ABCs of z/OS System Programming Volume 13: JES3 Internals, SDSF, JES3 operator commands | . ",
+    "url": "/mainframe.html",
+    
+    "relUrl": "/mainframe.html"
+  }
 }
