@@ -1,0 +1,8 @@
+namespace("kap")
+ 	
+∇ (keys) ⌸ (values) {
+	a ← ∪keys
+	a ,[0.5] {values ⫽⍨ keys≡¨⊂⍵}¨ a
+}
+
+declare(:export ⌸)

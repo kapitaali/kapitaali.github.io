@@ -1,0 +1,25 @@
+{
+  "name": "array-standalonejs",
+  "version": "1.0.0-SNAPSHOT",
+  "main": "array-standalonejs.js",
+  "types": "array-standalonejs.d.ts",
+  "devDependencies": {
+    "webpack": "5.94.0",
+    "webpack-cli": "5.1.4",
+    "kotlin-web-helpers": "2.0.0",
+    "source-map-loader": "5.0.0",
+    "css-loader": "7.1.2",
+    "style-loader": "4.0.0",
+    "typescript": "5.5.4",
+    "webpack-dev-server": "4.15.2"
+  },
+  "dependencies": {
+    "xregexp": "5.1.0",
+    "grapheme-splitter": "1.0.4",
+    "@js-joda/core": "3.2.0",
+    "format-util": "^1.0.5"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

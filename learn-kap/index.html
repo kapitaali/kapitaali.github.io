@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Learn Kap</title>
+  <link rel="stylesheet" href="./dist/style.css">
+  <style>
+@font-face{font-family:a;src:url(Apl385.woff)format('woff');}
+/* http://www.apl385.com/fonts/index.htm as of 2017-08-10 says:
+"All fonts listed on this page are original artwork by Adrian Smith, and are freely placed into the public domain." */
+body,textarea,input{font-family:a,monospace}
+a{color:#008;text-decoration:none}
+a:hover{text-decoration:underline}
+#code{width:100%;outline:none}
+#go{float:right;width:64px}
+#rslt{margin-top:46px;white-space:pre}
+#rslt.err{color:red}
+</style>
+</head>
+<body>
+  <!-- <img src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOTIwIiBoZWlnaHQ9IjEwODAiIHZpZXdCb3g9IjAgMCAxOTIwIDEwODAiPg0KICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjMDAwMDAwIiAvPg0KICA8ZyBmaWxsPSJub25lIiBzdHJva2U9IiMwMGZmMDAiIHN0cm9rZS13aWR0aD0iMiI+DQogICAgPHBhdGggZD0iTTAgNjBoMTkyMCIgLz4NCiAgICA8cGF0aCBkPSJNMCAxODBoMTkyMCIgLz4NCiAgICA8cGF0aCBkPSJNMCAzMDBoMTkyMCIgLz4NCiAgICA8cGF0aCBkPSJNMCA0MjBoMTkyMCIgLz4NCiAgICA8cGF0aCBkPSJNMCA1NDBoMTkyMCIgLz4NCiAgICA8cGF0aCBkPSJNMCA2NjBoMTkyMCIgLz4NCiAgICA8cGF0aCBkPSJNMCA3ODBoMTkyMCIgLz4NCiAgPC9nPg0KICA8dGV4dCB4PSI1MCUiIHk9IjUwJSIgZm9udC1mYW1pbHk9Ik9yYml0cm9uLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjgwIiBmaWxsPSIjMDBmZjAwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXdlaWdodD0iYm9sZCI+TGVhcm4gS2FwPC90ZXh0Pg0KPC9zdmc+' alt="Learn Kap Background" /> -->
+  <!-- <img src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOTIwIiBoZWlnaHQ9IjEwODAiIHZpZXdCb3g9IjAgMCAxOTIwIDEwODAiPg0KICA8ZGVmcz4NCiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQxIiB4MT0iMCIgeTE9IjAiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+DQogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdHlsZT0ic3RvcC1jb2xvcjojMDAwMDAwO3N0b3Atb3BhY2l0eToxIiAvPg0KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdHlsZT0ic3RvcC1jb2xvcjojMDAwMDVmO3N0b3Atb3BhY2l0eToxIiAvPg0KICAgIDwvbGluZWFyR3JhZGllbnQ+DQogICAgPGZpbHRlciBpZD0iZ2xvd0VmZmVjdCI+DQogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIxMCIgcmVzdWx0PSJjb2xvckJsdXIiIC8+DQogICAgICA8ZmVNZXJnZT4NCiAgICAgICAgPGZlTWVyZ2VOb2RlIGluPSJjb2xvckJsdXIiIC8+DQogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIgLz4NCiAgICAgIDwvZmVNZXJnZT4NCiAgICA8L2ZpbHRlcj4NCiAgPC9kZWZzPg0KICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ1cmwoI2dyYWQxKSIgLz4NCiAgPGcgZmlsdGVyPSJ1cmwoI2dsb3dFZmZlY3QpIiBmb250LWZhbWlseT0iT3JiaXRyb24sIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iODAiIGZvbnQtd2VpZ2h0PSJib2xkIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjMDBmZmZmIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMjUlLCAtMjUlKSI+DQogICAgPHRleHQgeD0iNTAlIiB5PSI0NSUiPkxlYXJuPC90ZXh0Pg0KICAgIDx0ZXh0IHg9IjUwJSIgeT0iNjAlIj5LYXA8L3RleHQ+DQogIDwvZz4NCiAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTI1JSwgLTI1JSkiPg0KICAgIDxjaXJjbGUgY3g9IjUwJSIgY3k9IjUwJSIgcj0iMjAwIiBmaWxsPSJub25lIiBzdHJva2U9IiMwMGZmZmYiIHN0cm9rZS13aWR0aD0iNSIgc3Ryb2tlLWRhc2hhcnJheT0iMTAiIG9wYWNpdHk9IjAuNSIgLz4NCiAgICA8Y2lyY2xlIGN4PSI1MCUiIGN5PSI1MCUiIHI9IjI1MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBmZmZmIiBzdHJva2Utd2lkdGg9IjUiIHN0cm9rZS1kYXNoYXJyYXk9IjEwIiBvcGFjaXR5PSIwLjUiIC8+DQogIDwvZz4NCjwvc3ZnPg0K' alt="Learn Kap Background" /> -->
+  <div class="container" style="position: absolute;">
+    <h1 id="title">Quiz</h1>
+    <div id="question-container">
+      <p id="question">Question text</p>
+      <textarea id="answer" rows="4" autofocus="" placeholder="Your answer"></textarea>
+    </div>
+    <div class="buttons">
+      <button id="back-button">
+        <img src="back-arrow.png" alt="Back">
+      </button>
+      <button id="check-button">Check</button>
+      <button id="forward-button">
+        <img src="forward-arrow.png" alt="Forward">
+      </button>
+    </div>
+    <div id="score">
+      Score: <span id="score-value">0</span>, Skips remaining: <span id="skips-value">2</span>
+    </div>
+    <div id="question-grid">
+    </div>
+    <button id="restart-button">Restart</button>
+    <!-- Transparent Text -->
+  </div>
+
+   <!-- Floating Buttons -->
+   <button id="links-button" class="floating-button" style="top: 40%;">C</button>
+   <button id="help-button" class="floating-button" style="top: 50%;">?</button>
+ 
+   <!-- Links Page -->
+   <div id="links-page" class="help-page">
+     <button id="close-links-button" class="close-button">X</button>
+     <div class="help-content">
+       <h2>Kap Card</h2>
+       <pre>
+        Functions                                  Operators
+        Monadic      Dyadic                      /  Reduce
+     +  Conjugate    Plus                        ⌿  ReduceFirst
+     -  Negation     Subtraction                 ¨  Each
+     ×  Signum       Multiply                    ⍨  Flip
+     ÷  Reciprocal   Divide                      ⍤  Rank
+     |  Magnitude    Modulo                      ∵  Bitwise
+     ⌈  Ceiling      Maximum                     ∘  Compose  
+     ⌊  Floor        Minimum                        parallel
+     ⍟  Logarithm    BaseLogarithm                    
+     ⍳  Iota         IndexOf                               
+     ⍴  Shape        Reshape                   Control         
+     ⊢  Self         Right                       if (a) {
+     ⊣  Self         Left                           result         
+     =               Equals                      }                
+     ≠               Not equals                              
+     <               Less than                   if (a) {       
+     >               Greater than                   resultIfTrue           
+     ≤               Less than or equal          } else {    
+     ≥               Greater than or equal          resultIfFalse   
+     ⌷               Index                       }
+     ⊂  Encose       Partition                                         
+     ⊃  Disclose     Pick                        when {                       
+     ∧               And/GCD                        (conditionA) { resultIfA }   
+     ∨               Or/LCM                         (conditionB) { resultIfB }
+     ⍲               Nand                           (1)          { elseResult }
+     ⍱               Nor                         }                         
+     ~  Not          Without                                            
+     ,  Ravel        Concatenate                 while (a) {                             
+     ⍪  Table        ,[0]                           code   
+     ↑  First        Take                        }                           
+     ↓  DropFirst    Drop                                                     
+     ?  Random       Draw                        unwindProtect {      
+     ⌽  Reverse      Rotate                         mainCode                           
+     ⊖  ReverseMajor RotateMajor                 } { unwind }
+     ⍉  Transpose    Reorder                                                      
+     ≡               Match                       :foo → "test"  ⍝ throw                                 
+     ≢  Size         NotMatch                                                    
+     ∊               Find                                                           
+     ⍷               FindMap                                                   
+     ⍋  GradeUp                                                                   
+     ⍒  GradeDown                                                                
+     /               Select                                                      
+     ⌿               SelectFirst                                                  
+     ⍕  String                                                                     
+     ⍎  Parse                                                                      
+     ∪  Unique       UniqueBoth                                                         
+     ∩               Intersect                                                           
+     !  Factorial    Binomial                                                           
+</pre>
+
+       <ul>
+         <li><a href="https://kapdemo.dhsdevelopments.com/reference.html" target="_blank" rel="noopener noreferrer">Kap Reference</a></li>
+         <li><a href="https://kapdemo.dhsdevelopments.com/tutorial.html" target="_blank" rel="noopener noreferrer">Kap Tutorial</a></li>
+         <li><a href="https://kapdemo.dhsdevelopments.com/clientweb2/" target="_blank" rel="noopener noreferrer">Kap Web Client</a></li>
+       </ul>
+     </div>
+   </div>
+ 
+   <!-- Popup Pages -->
+   <div id="conjugate" class="popup-page" style="display: none">
+     <button class="close-popup-button">X</button>
+     <div class="help-content">
+       <h2>+  Conjugate</h2>
+       <p>Monadic + gives the complex conjugate of its argument.</p>
+       <pre>     + 2j¯5
+2.0J5.0</pre>
+      </div>
+   </div>
+ 
+   <div id="plus" class="popup-page" style="display: none">
+     <button class="close-popup-button">X</button>
+     <div class="help-content">
+       <h2>+  Plus</h2>
+       <p>Dyadic + gives the sum of its arguments.</p>
+       <pre>     1 2 3 + 1 1 1
+2 3 4</pre>
+     </div>
+   </div>
+ 
+   <div id="popup3" class="popup-page" style="display: none">
+     <button class="close-popup-button">X</button>
+     <div class="help-content">
+       <h2>Popup 3</h2>
+       <p>Content for Popup 3.</p>
+     </div>
+   </div>
+ 
+   <div id="popup4" class="popup-page" style="display: none">
+     <button class="close-popup-button">X</button>
+     <div class="help-content">
+       <h2>Hello there</h2>
+       <p>This is secret content that has found no practical use yet.</p>
+     </div>
+   </div>
+
+
+  <!-- Help Page -->
+  <div id="help-page" class="help-page">
+    <button id="close-help-button" class="close-button">X</button>
+    <div class="help-content">
+        <h2>Help and Instructions</h2>
+        <p>Welcome to Learn Kap. Solve the programming problems by typing into the input box. You might want to open the <a href="https://kapdemo.dhsdevelopments.com/reference.html" target="_blank" rel="noopener noreferrer">Kap Reference</a> to another tab.</p>
+        <p>Some problems are solvable with one symbol only, so for example this is perfectly fine: myFun ⇐ ⌽</p>
+        <p>Use the arrow buttons to navigate between questions.</p>
+        <p>Click the "Check" button to check your answer.</p>
+        <p>You can skip up to 2 questions by clicking the forward arrow without answering.</p>
+        <p>The grid at the bottom shows the status of each question: green = correct, red = incorrect, yellow = skipped.</p>
+        <p>Learn Kap is under development. <b>Known issues:</b>
+        <ul>
+          <li>Storage gets sometimes corrupted and you will see it as questions not loading. You have to click "Restart" and then load the page again. Be sure to write down your answers for yourself!</li>
+          <li>Kap is not super optimized yet with large arrays. When you click "check" it might take time for it to turn green. So just wait a few seconds.</li>
+        </ul></p>
+        <p>Credits:</p>
+        <p>the <a href="https://shell.nor.fi/thebbo/" target="_blank" rel="noopener noreferrer">Learn Kap</a> quiz: Teppo Saari<br/>
+          the <a href="https://kapdemo.dhsdevelopments.com/" target="_blank" rel="noopener noreferrer">Kap programming language</a>: Elias Mårtensson<br/>
+        </p>
+    </div>
+  </div>
+
+  <script src="./standalonejs/build/kotlin-webpack/js/productionExecutable/standalonejs.js"></script>
+  <script src="script.js"></script>
+  <script src="lb.js"></script>
+  <script>
+      /*
+      console.log("initialization...")
+      let x = standalonejs.com.dhsdevelopments.kap.standalonejs.createEngine();
+      x.then(function (e) {
+        let res = e.parseAndEval("use(\"structure.kap\") ⋄ use(\"base-functions.kap\") ⋄ use(\"math.kap\") ⋄ use(\"io.kap\") ⋄ use(\"http.kap\") ⋄ use(\"output3.kap\") ⋄ use(\"time.kap\") ⋄ use(\"regex.kap\") ⋄ use(\"util.kap\") ⋄ use(\"map.kap\")");
+        console.log("init=" + res.asDouble())
+      });
+      */
+  </script>
+</body>
+</html>
+
+

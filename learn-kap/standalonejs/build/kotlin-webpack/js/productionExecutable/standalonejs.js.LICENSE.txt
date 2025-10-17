@@ -1,0 +1,68 @@
+/*
+ * @copyright (c) 2016, Philipp Thürwächter & Pattrick Hüper
+ * @copyright (c) 2007-present, Stephen Colebourne & Michael Nascimento Santos
+ * @license BSD-3-Clause (see LICENSE in the root directory of this source tree)
+ */
+
+/*
+ * @copyright (c) 2016, Philipp Thürwächter & Pattrick Hüper
+ * @license BSD-3-Clause (see LICENSE in the root directory of this source tree)
+ */
+
+/*
+ * @copyright (c) 2016, Philipp Thürwächter, Pattrick Hüper
+ * @copyright (c) 2007-present, Stephen Colebourne & Michael Nascimento Santos
+ * @license BSD-3-Clause (see LICENSE in the root directory of this source tree)
+ */
+
+/*!
+ * XRegExp 5.1.0
+ * <xregexp.com>
+ * Steven Levithan (c) 2007-present MIT License
+ */
+
+/*!
+ * XRegExp Unicode Base 5.1.0
+ * <xregexp.com>
+ * Steven Levithan (c) 2008-present MIT License
+ */
+
+/*!
+ * XRegExp Unicode Categories 5.1.0
+ * <xregexp.com>
+ * Steven Levithan (c) 2010-present MIT License
+ * Unicode data by Mathias Bynens <mathiasbynens.be>
+ */
+
+/*!
+ * XRegExp Unicode Properties 5.1.0
+ * <xregexp.com>
+ * Steven Levithan (c) 2012-present MIT License
+ * Unicode data by Mathias Bynens <mathiasbynens.be>
+ */
+
+/*!
+ * XRegExp Unicode Scripts 5.1.0
+ * <xregexp.com>
+ * Steven Levithan (c) 2010-present MIT License
+ * Unicode data by Mathias Bynens <mathiasbynens.be>
+ */
+
+/**
+ * @copyright (c) 2016, Philipp Thürwächter & Pattrick Hüper
+ * @copyright (c) 2007-present, Stephen Colebourne & Michael Nascimento Santos
+ * @license BSD-3-Clause (see LICENSE in the root directory of this source tree)
+ */
+
+/**
+ * @copyright (c) 2016, Philipp Thürwächter & Pattrick Hüper
+ * @license BSD-3-Clause (see LICENSE in the root directory of this source tree)
+ */
+
+//! @copyright (c) 2007-present, Stephen Colebourne & Michael Nascimento Santos
+
+//! @copyright (c) 2015-present, Philipp Thürwächter, Pattrick Hüper & js-joda contributors
+
+//! @license BSD-3-Clause (see LICENSE in the root directory of this source tree)
+
+//! @version @js-joda/core - 3.2.0

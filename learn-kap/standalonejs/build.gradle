@@ -1,0 +1,71 @@
+plugins {
+    id 'org.jetbrains.kotlin.multiplatform'
+}
+group = 'com.dhsdevelopments.kap'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+kotlin {
+    jvmToolchain(Integer.parseInt(project.getProperty("kap.settings.toolchainVersion")))
+
+    js(IR) {
+        browser {
+            binaries.executable()
+            webpackTask {
+                cssSupport {
+                    enabled.set(true)
+                }
+            }
+            runTask {
+                cssSupport {
+                    enabled.set(true)
+                }
+            }
+            testTask {
+                enabled = false
+                useKarma {
+                    useFirefox()
+                }
+            }
+        }
+    }
+
+    sourceSets {
+        commonMain {
+            dependencies {
+                implementation kotlin('stdlib-common')
+                implementation project(':array')
+            }
+        }
+        commonTest {
+            dependencies {
+                implementation kotlin('test-common')
+                implementation kotlin('test-annotations-common')
+            }
+        }
+        jsMain {
+            dependencies {
+                implementation project(':kap-util')
+                implementation group: 'org.jetbrains.kotlinx', name: 'kotlinx-html', version: '0.10.1'
+            }
+        }
+        jsTest {
+            dependencies {
+                implementation 'org.jetbrains.kotlin:kotlin-test-js'
+                implementation project(':test-tools')
+            }
+        }
+    }
+}
+
+tasks.register('copyStandardLib', Copy) {
+    dependsOn tasks.named("jsBrowserDevelopmentWebpack")
+    copyStandardLib.configure {
+        from("../array/standard-lib")
+        into("build/processedResources/js/main/standard-lib")
+        include("*.kap")
+    }
+}

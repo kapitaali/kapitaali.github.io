@@ -1,0 +1,11 @@
+abi_version=1.201.0
+builtins_platform=JS
+compiler_version=2.1.20-RC
+depends=array\:array array\:kap-util array\:mpbignum org.jetbrains.kotlinx\:kotlinx-html org.jetbrains.kotlinx\:kotlinx-datetime org.jetbrains.kotlinx\:kotlinx-serialization-core org.jetbrains.kotlin\:kotlin-dom-api-compat kotlin
+ir_signature_versions=1,2
+jsOutputName=array-standalonejs
+metadata_version=1.4.1
+serializedIrFileFingerprints=23mcj3bbp8di6.3owthilb5var9 2emlajex40w1r.1ysac0d6vmhj8 21bciz2b9m0jg.1qrrgwr1m4jdc
+serializedKlibFingerprint=30pk3b12kwf9o.2gy1fa5vvew9r
+unique_name=com.dhsdevelopments.kap\:standalonejs
+wasm_targets=wasm-js

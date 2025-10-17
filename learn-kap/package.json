@@ -1,0 +1,13 @@
+{
+  "name": "quiz-app",
+  "version": "1.0.0",
+  "description": "A simple quiz application",
+  "main": "script.js",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+

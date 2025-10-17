@@ -1,0 +1,7 @@
+namespace("math")
+
+use("math-kap.kap")
+
+pi ← 3.14159265358979323846
+declare(:const pi)
+declare(:export pi)

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Standalone test</title>
+</head>
+<body>
+<script src="standalonejs.js"></script>
+<h1>Test of standalone mode</h1>
+<script>
+    console.log("creating engine")
+    let x = standalonejs.com.dhsdevelopments.kap.standalonejs.createEngine();
+    x.then(function (e) {
+        let res = e.parseAndEval("10 + 20 + if (1) { 100 } else { 200 }");
+        console.log("result value=" + res.asDouble())
+    })
+</script>
+</body>
+</html>
