@@ -1,5 +1,115 @@
 [
   {
+    "question": "<p>Kap can perform mathematical operations on entire collections of numbers, rather than just on a single number at a time. For example, <br/><code>10 20 30 + 4 5 6</code> gives <code>14 25 36</code> <br/>and <code>10 × 1 2 3</code> is <code>10 20 30</code>.</p><p>The ⌊ symbol implements a mathemetical operation that computes the minimum of two values. Think of ⌊ as a vertical line with a horizontal indicator tick at the minimum. You could also view it as a styled letter L, since it gives the Lowest of its arguments. When given numbers on both its left and its right, the minimum is the lowest of each pair of numbers. For example, <code>10 4 ⌊ 2 6</code> gives <code>2 4</code>.</p><p>Use ⌊ to define myFun to limit its argument so that no value is greater than 7, that is, elements greater than 7 become 7.</p>",
+    "answer": "(1 2 3 4 5 6 7 7 7 7)",
+    "questionSet": "Minimalism (APL Challenge 2024.2/03)",
+    "mustContain": ["myFun", "⇐"],
+    "cannotContain": [],
+    "prep": "",
+    "check": "myFun 1 2 3 4 5 6 7 8 9 10",
+    "answerType": "ARRAY",
+    "answerDim": []
+  },
+  {
+    "question": "<p>The Maximum function ⌈ is just like Minimum, except that it returns the larger of corresponding elements. In this case, the symbol ⌈ provides a reminder because the tick is at the top of the vertical bar. For example, <code>3 1 4 1 5 9 ⌈ 2 7 1 8 2 8</code> returns <code>3 7 4 8 5 9</code>.</p><p>A Kap function takes the result of all the code to its right (until the end of the expression) as its right argument. For example, 2×3+4 gives 14 (rather than the 10 as you might expect from traditional mathematics) because the × takes the result of 3+4 as its right argument. Similarly, -2+4 gives ¯6 (Kap uses a high minus ¯ to indicate negative numbers) because - negates 2+4.</p><p>Use ⌊ and ⌈ to define myFun so that it clamps the elements of <code>1 2 3 4 5 6 7 8 9 10</code> between 3 and 7, that is, elements less than 3 become 3 and elements greater than 7 become 7. The result will be <code>3 3 3 4 5 6 7 7 7 7</code>.</p>",
+    "answer": "(3 3 3 4 5 6 7 7 7 7)",
+    "questionSet": "Staying In Bounds (APL Challenge 2024.2/04)",
+    "mustContain": ["myFun", "⇐"],
+    "cannotContain": [],
+    "prep": "",
+    "check": "myFun 1 2 3 4 5 6 7 8 9 10",
+    "answerType": "ARRAY",
+    "answerDim": [10]
+  },  
+  {
+    "question": "<p>Kap has six symbols that compare the data on their left the data on their on the right. Just like primitives from previous Problems, they give 1 for \"yes\" and 0 for \"no\" when answering whether the statement is true.</p><p>The six comparisons are Smaller Than (<), Smaller Than Or Equal To (≤), Equal To (=), Bigger Than Or Equal To (≥), Bigger Than (>), and Not Equal To (≠).</p><p>Kap can compare entire lists of numbers, rather than just single numbers. For example, 1 2 3 = 5 4 3 gives 0 0 1 because:</p><p>0: no, 1 is not equal to 5<br/>0: no, 2 is not equal to 4<br/>1: yes, 3 is equal to 3<br/></p>Define myFun in such a way that when placed in the box ( ⎕ ), the Kap code <code>3 5 4 8 6 ⎕ 3 4 5 3 9</code> would give <code>0 1 0 1 0</code>?",
+    "answer": "(0 1 0 1 0)",
+    "questionSet": "Comparing This to That (APL Challenge 2024.3/02)",
+    "mustContain": ["myFun", "⇐"],
+    "cannotContain": [],
+    "prep": "",
+    "check": "3 5 4 8 6 myFun 3 4 5 3 9",
+    "answerType": "ARRAY",
+    "answerDim": [5]
+  },
+  {
+    "question": "<p>Kap's ⍴ is called Reshape. The symbol is a Greek Rho which is like r for reshape. Reshape takes a list of dimension lengths on its left and some data on its right, then reshapes the data into the specified shape. For example, to get a table with 4 rows and 2 columns, filled with 1s, you'd write <code>4 2 ⍴ 1</code>.</p> <p>When Kap deals with text data, it uses double quotation marks before and after the text. For example \"abc\" will give a result that looks like abc.</p> <p>Define a function myFun using ⍴ that reshapes \"Learn Kap!\" into<p/><pre>Learn<br> Kap!</pre><p>Don't worry about the character symbols @, you're only asked to give a function whose output when printed with io:println gives the required output.",
+    "answer": "1",
+    "questionSet": "Reshaping Your World (APL Challenge 2024.1/01)",
+    "mustContain": ["myFun", "⇐", "⍴"],
+    "cannotContain": [],
+    "prep": "check ← 2 5⍴(@L @e @a @r @n,[0]@\\u20 @K @a @p @!)",
+    "check": "check ≡ myFun \"Learn Kap!\"",
+    "answerType": "INTEGER",
+    "answerDim": []
+  },
+  {
+    "question": "<p>Kap's ↓ is used to drop elements. It takes a number on its left and a list on its right. The number specifies how many elements to drop from the left of the list.</p><p>For example, <code>1 ↓ 3 1 4 1 5</code> gives <code>1 4 1 5</code>.</p><p>Define function myFun using ↓ that turns the text \"allocation\" into \"location\".</p>",
+    "answer": "1",
+    "questionSet": "Drop Dead (APL Challenge 2024.2/01)",
+    "mustContain": ["myFun", "⇐", "↓"],
+    "cannotContain": [],
+    "prep": "",
+    "check": "3 4 5 6 7 ≡ myFun 1 2 3 4 5 6 7",
+    "answerType": "INTEGER",
+    "answerDim": []
+  },
+  {
+    "question": "<p>In Kap, yes/no questions are answered with 1 for \"yes\" and 0 for \"no\".</p><p>The symbol ∊ is Exists In (and it looks like E too) because it reports whether letters of the text on its left exist in the text on its right. For example, \"KAP\" ∊ \"APL\" gives 0 1 1 because:</p><p>0: no, \"K\" does not exist in \"APL\"<br>1: yes, \"A\" exists in \"APL\"<br>1: yes, \"P\" exists in \"APL\"<br></p><p>Note that what we’re looking for goes on the left of the ∊, and where we’re looking goes on its right.</p><p>Define function myFun such that uses ∊ to show that looks for all of the letters in the English alphabet \"ABCDEFGHIJKLMNOPQRSTUVWXYZ\" in the argument. <code>myFun \"THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\"</code> should give <code>1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</code>, that is, 26 1s.</p>",
+    "answer": "1",
+    "questionSet": "Existentialism (APL Challenge 2024.3/01)",
+    "mustContain": ["myFun", "⇐"],
+    "cannotContain": [],
+    "prep": "",
+    "check": "1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ≡ myFun \"THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG\"",
+    "answerType": "INTEGER",
+    "answerDim": []
+  },
+  {
+    "question": "<p>It is easy to count in Kap. Just write the symbol ⍳ (iota, a Greek letter), to the left of a number; this will give you all the whole numbers from 0 to the number you wrote, not including it. For example. <code>⍳ 10</code> gives <code>0 1 2 3 4 5 6 7 8 9</code></p><p>Define myFun using ⍳ in such a way that <code>myFun</code> always returns numbers from 1 to 42, regardless of given argument. The result should be <code>1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42</code></p>",
+    "answer": "1",
+    "questionSet": "Easy as 1-2-3 (APL Challenge 2024.4/01)",
+    "mustContain": ["myFun", "⇐", "⍳"],
+    "cannotContain": [],
+    "prep": "",
+    "check": "1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 ≡ myFun 1 2 3 4",
+    "answerType": "INTEGER",
+    "answerDim": []
+  },
+  {
+    "question": "<p>The symbol ∩ is called Intersection. It keeps items from the list on its left that are also found in the list on its right. Note that the symbol is the same as used in set theory, and its shape is like the letter n as in intersection. For example, <code>3 1 4 1 5 ∩ 1 2 3</code> gives <code>3 1 1</code> and \"Drake Mallard\" ∩ \"dark\" gives <code>rakd</code>.</p><p>Define myFun using ∩ in such a way that it finds the intersection of vowels and function's argument string.</p>",
+    "answer": "1",
+    "questionSet": "Meet Me at the Intersection (APL Challenge 2024.2/02)",
+    "mustContain": ["myFun", "⇐"],
+    "cannotContain": [],
+    "prep": "",
+    "check": "\"aeio\" ≡ ∧myFun \"piece of cake\"",
+    "answerType": "ARRAY",
+    "answerDim": [4]
+  },
+  {
+    "question": "<p>Math functions in Kap all reside in namespace <code>math:</code>. You also have constants like <code>math:pi</code> and <code>math:inf</code>. Pi is the ratio between a circle's circumference and its diameter.</p><p>Write a function that computes the circumference of circles with diameter given as argument. Define myFun in such a way that <code>myFun 2 7 1 8</code> gives <code>6.283185307 21.99114858 3.141592654 25.13274123</code>.</p>",
+    "answer": "(6.283185307179586 21.991148575128552 3.141592653589793 25.132741228718345)",
+    "questionSet": "A Slice Of (APL Challenge 2024.1/03)",
+    "mustContain": ["myFun", "⇐"],
+    "cannotContain": [],
+    "prep": "",
+    "check": "myFun 2 7 1 8",
+    "answerType": "ARRAY",
+    "answerDim": [4]
+  },
+  {
+    "question": "<p>Partition ⊂ is a function (symbol) that cuts up text into parts: It takes a text as its right argument and a list of numbers as its left argument. The list of numbers has only 1s and 0s, and specifies how to cut the text into parts. Characters (letters and spaces) in the text corresponding to 0s are discarded; a new part is then started. <br/>For example, <code>0 0 1 1 0 1 1 1 1 0 0 1 1 1 ⊂ \"THIS PARTITION\"</code> gives:<br/>┌→────────────────┐<br/>│\"IS\" \"PART\" \"ION\"│<br/>└─────────────────┘<br/></p><p>We can show what’s going on like this:<br/><code>0 0 1 1 0 1 1 1 1 0 0 1 1 1</code><br/><code>t h i s   p a r t i t i o n</code><br/></p><p>Remember the previous comparison functions? We used them with single numbers on both sides and with lists of numbers on both sides. However, they can also take a single number on the left and a list on the right. For example, <code>4 < 3 5 7</code> gives <code>0 1 1</code>.</p><p>Using ⊂, define myFun that will cut the text \"THE QUICK BROWN FOX\" into words at the space characters (' '). The answer should be<br/>┌→──────────────────────────┐<br/>│\"THE\" \"QUICK\" \"BROWN\" \"FOX\"│<br/>└───────────────────────────┘</p>",
+    "answer": "(\"THE\" \"QUICK\" \"BROWN\" \"FOX\")",
+    "questionSet": "Partition Condition (APL Challenge 2024.3/04)",
+    "mustContain": ["myFun", "⇐", "⊂"],
+    "cannotContain": [],
+    "prep": "",
+    "check": "myFun \"THE QUICK BROWN FOX\"",
+    "answerType": "ARRAY",
+    "answerDim": []
+  },
+  {
     "question": "Find the last element of an array. Define myFun in such a way that <br/><code>myFun 1 2 3 4</code><br/> gives 4.<br/><p>Note that your answer must produce an integer, not an 1 element array.</p>",
     "answer": "4",
     "questionSet": "Arrays",
@@ -385,7 +495,7 @@
     "answerDim": [32]
   },
   {
-    "question": "<p>A binary tree is either empty or it is composed of a root element and two successors, which are binary trees themselves. Examples of inary trees: <br/>A binary tree consisting of a root node only: a ← (:a null null)<br/>An empty binary tree: b ← null<br/>A tree of integers: c ← 1 (2 null (4 null null)) (2 null null)</p> Check whether a given term represents a binary tree. Define myFun in such a way that <code>myFun (:a (:b null null) null)</code> gives 1 and <code>myFun (:a (:b null null))</code> gives 0.",
+    "question": "<p>A binary tree is either empty or it is composed of a root element and two successors, which are binary trees themselves. Examples of binary trees: <br/>A binary tree consisting of a root node only: a ← (:a null null)<br/>An empty binary tree: b ← null<br/>A tree of integers: c ← 1 (2 null (4 null null)) (2 null null)</p> Check whether a given term represents a binary tree. Define myFun in such a way that <code>myFun (:a (:b null null) null)</code> gives 1 and <code>myFun (:a (:b null null))</code> gives 0.",
     "answer": "0",
     "questionSet": "Binary trees",
     "mustContain": ["myFun"],
@@ -394,6 +504,17 @@
     "check": "myFun :a (:b :null :null) :null :null",
     "answerType": "INTEGER",
     "answerDim": []
+  },
+  {
+    "question": "<p>Construct completely balanced binary trees. In a completely balanced binary tree, the following property holds for every node: The number of nodes in its left subtree and the number of nodes in its right subtree are almost equal, which means their difference is not greater than one.</p> <p>Write a function cbal-tree to construct completely balanced binary trees for a given number of nodes. The function should generate all solutions. Define myFun in such a way that <code>myFun 0</code> gives <code>:null</code>, <code>myFun 1</code> gives <code>(:value :null :null)</code>, <code>myFun 2</code> gives <code>((:value :null (:value :null :null)) (:value (:value :null :null) :null))</code>, <code>myFun 3</code> gives <code>(:value (:value :null (:value :null :null)) :null) (:value (:value (:value :null :null) :null) :null) (:value :null (:value :null (:value :null :null))) (:value :null (:value (:value :null :null) :null))</code> etc.</p>",
+    "answer": "(:value (:value :null :null) (:value (:value :null :null) :null)) (:value (:value :null :null) (:value :null (:value :null :null))) (:value (:value (:value :null :null) :null) (:value :null :null)) (:value (:value :null (:value :null :null)) (:value :null :null))",
+    "questionSet": "Binary trees",
+    "mustContain": ["myFun"],
+    "cannotContain": [],
+    "prep": "",
+    "check": "myFun 4",
+    "answerType": "NESTED_ARRAY",
+    "answerDim": [4]
   },
   {
     "question": "<p>Symmetric binary trees. Write a function to check if a tree is symmetric.</p> Define myFun in such a way that <code>myFun (:a (:b :null :null) (:b :null :null))</code> gives 1 and <code>myFun (:a (:b :null :null) :null)</code> gives 0.",
