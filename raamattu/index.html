@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lue Raamattua</title>
+    <link rel="stylesheet" href="style.css" />
+    <!-- Fuse.js for search -->
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js/dist/fuse.min.js"></script>
+    <!-- sql.js for SQLite in browser -->
+    <script src="https://sql.js.org/dist/sql-wasm.js"></script>
+  </head>
+  <body>
+    <!-- Splash screen -->
+    <div id="splash-screen" class="splash-screen">
+      <h2>Ladataan Raamattua...</h2>
+      <div class="progress-bar">
+        <div id="progress-fill" class="progress-fill"></div>
+      </div>
+      <p id="progress-text">0%</p>
+    </div>
+
+    <!-- Main content (initially hidden) -->
+    <div id="main-content" class="main-content hidden">
+      <header class="app-header">
+        <h1>Lue Raamattua</h1>
+        <div class="version-selector">
+          <label for="bible-version">Versio:</label>
+          <select id="bible-version">
+            <!-- Options will be dynamically loaded by JavaScript -->
+          </select>
+        </div>
+      </header>
+
+      <nav class="app-nav">
+        <div class="search-bar">
+          <input type="text" id="search-input" placeholder="Etsi..." />
+          <button id="search-button">Hae</button>
+        </div>
+
+        <!-- Toggle Button for Book List -->
+        <div class="book-list-header">
+          <button id="toggle-book-list" class="toggle-button">
+            Kirjat <span class="arrow-icon">&#9660;</span>
+          </button>
+        </div>
+
+        <!-- Wrapper for the Book List (for collapsing) -->
+        <div id="book-list-wrapper">
+          <div class="book-list">
+            <!-- Bible books will be dynamically loaded here by script.js -->
+          </div>
+        </div>
+      </nav>
+
+      <main class="app-content">
+        <div class="search-results hidden">
+          <h2>Hakutulokset</h2>
+          <ul id="results-list"></ul>
+          <button id="back-to-study">Takaisin</button>
+        </div>
+
+        <div class="verse-viewer">
+          <h2 id="current-passage-title">Valitse kirja ja luku</h2>
+          <div id="verse-display">
+            <!-- Verses will be displayed here -->
+          </div>
+          <div class="navigation-controls">
+            <button id="prev-chapter">Aiempi luku</button>
+            <button id="next-chapter">Seuraava luku</button>
+          </div>
+        </div>
+      </main>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
