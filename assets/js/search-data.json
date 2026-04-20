@@ -405,6 +405,20 @@
     
     "relUrl": "/array.html"
   },"58": {
+    "doc": "Macroeconomics",
+    "title": "The Macroeconomics Trilogy",
+    "content": ". ",
+    "url": "/macroeconomics.html#the-macroeconomics-trilogy",
+    
+    "relUrl": "/macroeconomics.html#the-macroeconomics-trilogy"
+  },"59": {
+    "doc": "Macroeconomics",
+    "title": "Macroeconomics",
+    "content": "This is a book trilogy I have prompted. I want you to try and guess which LLM was used. I have also a revisioned PDF version of the third book, that is done by another model. Hopefully you gain something out of these. Please do comment on X or Bluesky. ",
+    "url": "/macroeconomics.html",
+    
+    "relUrl": "/macroeconomics.html"
+  },"60": {
     "doc": "Mainframe Resources",
     "title": "Mainframe Resources",
     "content": "Welcome to mainframe resources page. Here you will find PDF slides from Interskill courses offered by IBM’s academic initiative. You may sign up to the courses yoursef at ibm.com. These slides are by no means perfect or complete, but they will give you an overview of the courses and also help you get to know the system. Do also check out the ABCs of z/OS System Programming for more in-depth undestanding of z/OS internals. Some Redbooks: . | Introduction to the New Mainframe: z/OS Basics | ABCs of IBM z/OS System Programming Volume 1: TSO/E, ISPF, JCL, and SDSF, z/OS Maintenance and Storage concepts | ABCs of IBM z/OS System Programming Volume 2: Daily maintenance, subsystems, Job management, JES2, Libraries, Language environment | ABCs of IBM z/OS System Programming Volume 3: DFSMS, Data sets, Extended address volumes, Storage management | ABCs of z/OS System Programming: Volume 4: SNA, TCP/IP, Hardware interfaces, Routing, Parallel Sysplex, TCP/IP applications | ABCs of z/OS System Programming: Volume 5: Base and Parallel Sysplex, GRS, System logger, GDPS, Availability | ABCs of z/OS System Programming: Volume 6: Security, RACF, SAF, Cryptography | ABCs of z/OS System Programming Volume 7: Printing, Infoprint Server, NeSpool, Infoprint Central | ABCs of z/OS System Programming Volume 8: Diagnosis fundamentals, IPCS, Dump analysis, Diagnostic procedures | ABCs of z/OS System Programming: Volume 9: z/OS UNIX, File System, UNIX security, Shell programming and tools | ABCs of z/OS System Programming Volume 10: z/Architecture, Z Connectivity, Virtualization, Logical partitions | ABCs of z/OS System Programming Volume 11: Capacity planning, Performance management, RMF, SMF | ABCs of z/OS System Programming Volume 12: Workload Manager, WLM policy and functions, WLM ISPF application | ABCs of z/OS System Programming Volume 13: JES3 Internals, SDSF, JES3 operator commands | . ",
