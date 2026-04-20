@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/cmake.js
 function tokenString(stream, state) {
@@ -81,4 +81,4 @@ init_cmake();
 export {
   cmake
 };
-//# sourceMappingURL=/build/_shared/cmake-5PAJ56QP.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/cmake-5PAJ56QP.js.map

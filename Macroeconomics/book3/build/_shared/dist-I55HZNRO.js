@@ -17,10 +17,10 @@ import {
   styleTags,
   syntaxTree,
   tags
-} from "/build/_shared/chunk-3I3NFLZ5.js";
+} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-3I3NFLZ5.js";
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@lezer/xml/dist/index.js
 function nameChar(ch) {
@@ -448,4 +448,4 @@ export {
   xml,
   xmlLanguage
 };
-//# sourceMappingURL=/build/_shared/dist-I55HZNRO.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/dist-I55HZNRO.js.map

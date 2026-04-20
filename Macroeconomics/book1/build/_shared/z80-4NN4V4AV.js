@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/z80.js
 function mkZ80(ez802) {
@@ -102,4 +102,4 @@ export {
   ez80,
   z80
 };
-//# sourceMappingURL=/build/_shared/z80-4NN4V4AV.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/z80-4NN4V4AV.js.map

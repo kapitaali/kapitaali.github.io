@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/rsl.js
 var require_rsl = __commonJS({
@@ -40,4 +40,4 @@ var require_rsl = __commonJS({
   }
 });
 export default require_rsl();
-//# sourceMappingURL=/build/_shared/rsl-A72YEBU3.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/rsl-A72YEBU3.js.map

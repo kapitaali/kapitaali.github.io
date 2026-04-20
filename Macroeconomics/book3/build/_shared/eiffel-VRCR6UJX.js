@@ -1,6 +1,6 @@
 import {
   require_eiffel
-} from "/build/_shared/chunk-3PNLPMNZ.js";
-import "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-3PNLPMNZ.js";
+import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 export default require_eiffel();
-//# sourceMappingURL=/build/_shared/eiffel-VRCR6UJX.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/eiffel-VRCR6UJX.js.map

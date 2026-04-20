@@ -1,7 +1,7 @@
 import {
   __commonJS,
   __toESM
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/is-buffer/index.js
 var require_is_buffer = __commonJS({
@@ -676,4 +676,4 @@ is-buffer/index.js:
    * @license  MIT
    *)
 */
-//# sourceMappingURL=/build/_shared/chunk-MWXHQG25.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-MWXHQG25.js.map

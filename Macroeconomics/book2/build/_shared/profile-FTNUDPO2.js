@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/profile.js
 var require_profile = __commonJS({
@@ -44,4 +44,4 @@ var require_profile = __commonJS({
   }
 });
 export default require_profile();
-//# sourceMappingURL=/build/_shared/profile-FTNUDPO2.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/profile-FTNUDPO2.js.map

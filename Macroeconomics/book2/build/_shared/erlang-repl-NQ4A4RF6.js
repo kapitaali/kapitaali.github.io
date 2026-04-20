@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/erlang-repl.js
 var require_erlang_repl = __commonJS({
@@ -70,4 +70,4 @@ var require_erlang_repl = __commonJS({
   }
 });
 export default require_erlang_repl();
-//# sourceMappingURL=/build/_shared/erlang-repl-NQ4A4RF6.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/erlang-repl-NQ4A4RF6.js.map

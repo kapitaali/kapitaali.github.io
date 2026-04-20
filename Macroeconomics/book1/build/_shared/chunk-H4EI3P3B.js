@@ -1,12 +1,12 @@
 import {
   require_jsx
-} from "/build/_shared/chunk-6QCI5B74.js";
+} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-6QCI5B74.js";
 import {
   require_typescript
-} from "/build/_shared/chunk-JA6ZLOJZ.js";
+} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-JA6ZLOJZ.js";
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/tsx.js
 var require_tsx = __commonJS({
@@ -38,4 +38,4 @@ var require_tsx = __commonJS({
 export {
   require_tsx
 };
-//# sourceMappingURL=/build/_shared/chunk-H4EI3P3B.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-H4EI3P3B.js.map

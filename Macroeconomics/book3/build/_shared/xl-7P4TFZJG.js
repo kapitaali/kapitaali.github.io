@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/xl.js
 var require_xl = __commonJS({
@@ -75,4 +75,4 @@ var require_xl = __commonJS({
   }
 });
 export default require_xl();
-//# sourceMappingURL=/build/_shared/xl-7P4TFZJG.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/xl-7P4TFZJG.js.map

@@ -1,15 +1,15 @@
 import {
   require_dist
-} from "/build/_shared/chunk-6CUK2GM5.js";
+} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-6CUK2GM5.js";
 import {
   lineBreakRegex
-} from "/build/_shared/chunk-463FZTZ7.js";
+} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-463FZTZ7.js";
 import {
   __name
-} from "/build/_shared/chunk-7PDOACA3.js";
+} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-7PDOACA3.js";
 import {
   __toESM
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/mermaid/dist/chunks/mermaid.core/chunk-TZMSLE5B.mjs
 var import_sanitize_url = __toESM(require_dist(), 1);
@@ -121,4 +121,4 @@ export {
   getNoteRect,
   getTextObj
 };
-//# sourceMappingURL=/build/_shared/chunk-PBNQRLL6.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-PBNQRLL6.js.map

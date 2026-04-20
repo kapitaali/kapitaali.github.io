@@ -2,20 +2,20 @@ import {
   filter_default,
   isUndefined_default,
   values_default
-} from "/build/_shared/chunk-75Y45RJ5.js";
+} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-75Y45RJ5.js";
 import {
   forEach_default,
   keys_default,
   reduce_default,
   union_default
-} from "/build/_shared/chunk-5XJWQ5WJ.js";
+} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-5XJWQ5WJ.js";
 import {
   isEmpty_default
-} from "/build/_shared/chunk-SP2MKLPW.js";
+} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-SP2MKLPW.js";
 import {
   constant_default,
   isFunction_default
-} from "/build/_shared/chunk-T7QTAV5N.js";
+} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-T7QTAV5N.js";
 
 // ../../node_modules/dagre-d3-es/src/graphlib/graph.js
 var DEFAULT_EDGE_NAME = "\0";
@@ -438,4 +438,4 @@ function edgeObjToId(isDirected, edgeObj) {
 export {
   Graph
 };
-//# sourceMappingURL=/build/_shared/chunk-E6IIAUT5.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-E6IIAUT5.js.map

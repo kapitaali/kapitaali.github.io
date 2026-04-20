@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/ichigojam.js
 var require_ichigojam = __commonJS({
@@ -29,4 +29,4 @@ var require_ichigojam = __commonJS({
 export {
   require_ichigojam
 };
-//# sourceMappingURL=/build/_shared/chunk-CAUBTB4F.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CAUBTB4F.js.map

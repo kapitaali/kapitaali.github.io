@@ -1,14 +1,14 @@
 import {
   RemixBrowser,
   require_jsx_dev_runtime
-} from "/build/_shared/chunk-2RVQXRZB.js";
+} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-2RVQXRZB.js";
 import {
   require_client,
   require_react
-} from "/build/_shared/chunk-3RNZ6DIW.js";
+} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-3RNZ6DIW.js";
 import {
   __toESM
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // app/entry.client.tsx
 var import_react2 = __toESM(require_react());
@@ -35,4 +35,4 @@ if (window.requestIdleCallback) {
 } else {
   window.setTimeout(hydrate, 1);
 }
-//# sourceMappingURL=/build/entry.client-JKLJPDHR.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/entry.client-JKLJPDHR.js.map

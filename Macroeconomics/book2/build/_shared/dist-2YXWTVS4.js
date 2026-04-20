@@ -12,10 +12,10 @@ import {
   tsxLanguage,
   typescriptLanguage,
   typescriptSnippets
-} from "/build/_shared/chunk-QCGUJ3KP.js";
-import "/build/_shared/chunk-DXWAMBZP.js";
-import "/build/_shared/chunk-3I3NFLZ5.js";
-import "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-QCGUJ3KP.js";
+import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-DXWAMBZP.js";
+import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-3I3NFLZ5.js";
+import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 init_dist();
 export {
   autoCloseTags,
@@ -31,4 +31,4 @@ export {
   typescriptLanguage,
   typescriptSnippets
 };
-//# sourceMappingURL=/build/_shared/dist-2YXWTVS4.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/dist-2YXWTVS4.js.map

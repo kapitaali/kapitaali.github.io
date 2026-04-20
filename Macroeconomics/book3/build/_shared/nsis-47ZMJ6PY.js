@@ -1,10 +1,10 @@
 import {
   init_simple_mode,
   simpleMode
-} from "/build/_shared/chunk-TVPXKM32.js";
+} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-TVPXKM32.js";
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/nsis.js
 var nsis;
@@ -75,4 +75,4 @@ init_nsis();
 export {
   nsis
 };
-//# sourceMappingURL=/build/_shared/nsis-47ZMJ6PY.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/nsis-47ZMJ6PY.js.map

@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/lua.js
 var require_lua = __commonJS({
@@ -36,4 +36,4 @@ var require_lua = __commonJS({
 export {
   require_lua
 };
-//# sourceMappingURL=/build/_shared/chunk-QZILPKJ6.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-QZILPKJ6.js.map

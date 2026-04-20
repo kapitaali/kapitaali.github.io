@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/htmlbars.js
 var require_htmlbars = __commonJS({
@@ -278,4 +278,4 @@ var require_htmlbars = __commonJS({
   }
 });
 export default require_htmlbars();
-//# sourceMappingURL=/build/_shared/htmlbars-APYUL26S.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/htmlbars-APYUL26S.js.map

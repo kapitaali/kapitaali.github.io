@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/birb.js
 var require_birb = __commonJS({
@@ -37,4 +37,4 @@ var require_birb = __commonJS({
 export {
   require_birb
 };
-//# sourceMappingURL=/build/_shared/chunk-XUMMPF5J.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-XUMMPF5J.js.map

@@ -1,6 +1,6 @@
 import {
   __name
-} from "/build/_shared/chunk-7PDOACA3.js";
+} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-7PDOACA3.js";
 
 // ../../node_modules/mermaid/dist/chunks/mermaid.core/chunk-FMBD7UC4.mjs
 var getIconStyles = /* @__PURE__ */ __name(() => `
@@ -22,4 +22,4 @@ var getIconStyles = /* @__PURE__ */ __name(() => `
 export {
   getIconStyles
 };
-//# sourceMappingURL=/build/_shared/chunk-BGO6WPMI.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-BGO6WPMI.js.map

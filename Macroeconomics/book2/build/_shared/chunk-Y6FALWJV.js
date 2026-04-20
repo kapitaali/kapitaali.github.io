@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/ignore.js
 var require_ignore = __commonJS({
@@ -38,4 +38,4 @@ var require_ignore = __commonJS({
 export {
   require_ignore
 };
-//# sourceMappingURL=/build/_shared/chunk-Y6FALWJV.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-Y6FALWJV.js.map

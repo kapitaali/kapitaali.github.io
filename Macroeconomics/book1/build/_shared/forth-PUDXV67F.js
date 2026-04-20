@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/forth.js
 function toWordList(words) {
@@ -125,4 +125,4 @@ init_forth();
 export {
   forth
 };
-//# sourceMappingURL=/build/_shared/forth-PUDXV67F.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/forth-PUDXV67F.js.map

@@ -1,6 +1,6 @@
 import {
   require_erlang
-} from "/build/_shared/chunk-J22Z2ZHW.js";
-import "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-J22Z2ZHW.js";
+import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 export default require_erlang();
-//# sourceMappingURL=/build/_shared/erlang-WSOO6ZFX.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/erlang-WSOO6ZFX.js.map

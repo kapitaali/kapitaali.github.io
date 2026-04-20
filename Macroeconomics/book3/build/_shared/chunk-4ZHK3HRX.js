@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/zig.js
 var require_zig = __commonJS({
@@ -109,4 +109,4 @@ var require_zig = __commonJS({
 export {
   require_zig
 };
-//# sourceMappingURL=/build/_shared/chunk-4ZHK3HRX.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-4ZHK3HRX.js.map

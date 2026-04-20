@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/brainfuck.js
 var reserve, brainfuck;
@@ -63,4 +63,4 @@ init_brainfuck();
 export {
   brainfuck
 };
-//# sourceMappingURL=/build/_shared/brainfuck-HKF4PCT2.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/brainfuck-HKF4PCT2.js.map

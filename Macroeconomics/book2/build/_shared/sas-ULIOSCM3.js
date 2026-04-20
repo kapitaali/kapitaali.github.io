@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/sas.js
 function define(style, string, context) {
@@ -224,4 +224,4 @@ init_sas();
 export {
   sas
 };
-//# sourceMappingURL=/build/_shared/sas-ULIOSCM3.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/sas-ULIOSCM3.js.map

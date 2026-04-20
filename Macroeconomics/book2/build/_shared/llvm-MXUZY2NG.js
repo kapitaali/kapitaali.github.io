@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/llvm.js
 var require_llvm = __commonJS({
@@ -100,4 +100,4 @@ var require_llvm = __commonJS({
   }
 });
 export default require_llvm();
-//# sourceMappingURL=/build/_shared/llvm-MXUZY2NG.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/llvm-MXUZY2NG.js.map

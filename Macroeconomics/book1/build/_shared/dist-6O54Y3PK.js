@@ -12,10 +12,10 @@ import {
   init_dist6 as init_dist3,
   styleTags,
   tags
-} from "/build/_shared/chunk-3I3NFLZ5.js";
+} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-3I3NFLZ5.js";
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@lezer/rust/dist/index.js
 function isNum(ch) {
@@ -240,4 +240,4 @@ export {
   rust,
   rustLanguage
 };
-//# sourceMappingURL=/build/_shared/dist-6O54Y3PK.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/dist-6O54Y3PK.js.map

@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/matlab.js
 var require_matlab = __commonJS({
@@ -29,4 +29,4 @@ var require_matlab = __commonJS({
 export {
   require_matlab
 };
-//# sourceMappingURL=/build/_shared/chunk-6QTQHZLL.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-6QTQHZLL.js.map

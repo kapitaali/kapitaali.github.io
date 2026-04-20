@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/clojure-repl.js
 var require_clojure_repl = __commonJS({
@@ -24,4 +24,4 @@ var require_clojure_repl = __commonJS({
   }
 });
 export default require_clojure_repl();
-//# sourceMappingURL=/build/_shared/clojure-repl-X5VETLNI.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/clojure-repl-X5VETLNI.js.map

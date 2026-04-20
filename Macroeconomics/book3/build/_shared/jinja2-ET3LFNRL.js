@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/jinja2.js
 function tokenBase(stream, state) {
@@ -221,4 +221,4 @@ init_jinja2();
 export {
   jinja2
 };
-//# sourceMappingURL=/build/_shared/jinja2-ET3LFNRL.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/jinja2-ET3LFNRL.js.map

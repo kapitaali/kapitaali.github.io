@@ -1,6 +1,6 @@
 import {
   require_mel
-} from "/build/_shared/chunk-CDHIOIJ5.js";
-import "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CDHIOIJ5.js";
+import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 export default require_mel();
-//# sourceMappingURL=/build/_shared/mel-WCSYSGN5.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/mel-WCSYSGN5.js.map

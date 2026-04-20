@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/vhdl.js
 function words(str) {
@@ -187,4 +187,4 @@ init_vhdl();
 export {
   vhdl
 };
-//# sourceMappingURL=/build/_shared/vhdl-Z57YYFMQ.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/vhdl-Z57YYFMQ.js.map

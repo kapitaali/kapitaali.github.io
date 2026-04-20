@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/avro-idl.js
 var require_avro_idl = __commonJS({
@@ -58,4 +58,4 @@ var require_avro_idl = __commonJS({
 export {
   require_avro_idl
 };
-//# sourceMappingURL=/build/_shared/chunk-ZPQ43UXO.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-ZPQ43UXO.js.map

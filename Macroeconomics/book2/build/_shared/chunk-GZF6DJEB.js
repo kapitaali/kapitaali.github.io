@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/coq.js
 var require_coq = __commonJS({
@@ -68,4 +68,4 @@ var require_coq = __commonJS({
 export {
   require_coq
 };
-//# sourceMappingURL=/build/_shared/chunk-GZF6DJEB.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-GZF6DJEB.js.map

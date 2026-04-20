@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/neon.js
 var require_neon = __commonJS({
@@ -56,4 +56,4 @@ var require_neon = __commonJS({
 export {
   require_neon
 };
-//# sourceMappingURL=/build/_shared/chunk-YMCTLO7G.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-YMCTLO7G.js.map

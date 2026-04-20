@@ -1,6 +1,6 @@
 import {
   require_bnf
-} from "/build/_shared/chunk-YXGJK6QE.js";
-import "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-YXGJK6QE.js";
+import "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 export default require_bnf();
-//# sourceMappingURL=/build/_shared/bnf-TI6KQVZ3.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/bnf-TI6KQVZ3.js.map

@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/ebnf.js
 var require_ebnf = __commonJS({
@@ -49,4 +49,4 @@ var require_ebnf = __commonJS({
   }
 });
 export default require_ebnf();
-//# sourceMappingURL=/build/_shared/ebnf-2K7ELIYO.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/ebnf-2K7ELIYO.js.map

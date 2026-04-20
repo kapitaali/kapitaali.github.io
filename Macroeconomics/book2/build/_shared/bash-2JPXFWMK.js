@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/bash.js
 var require_bash = __commonJS({
@@ -144,4 +144,4 @@ var require_bash = __commonJS({
   }
 });
 export default require_bash();
-//# sourceMappingURL=/build/_shared/bash-2JPXFWMK.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/bash-2JPXFWMK.js.map

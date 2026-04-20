@@ -30463,4 +30463,4 @@ cytoscape/dist/cytoscape.esm.mjs:
   (*! Bezier curve function generator. Copyright Gaetan Renaudeau. MIT License: http://en.wikipedia.org/wiki/MIT_License *)
   (*! Runge-Kutta spring physics function generator. Adapted from Framer.js, copyright Koen Bok. MIT License: http://en.wikipedia.org/wiki/MIT_License *)
 */
-//# sourceMappingURL=/build/_shared/chunk-QKSCEHAD.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-QKSCEHAD.js.map

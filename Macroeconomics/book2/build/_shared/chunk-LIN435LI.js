@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/wasm.js
 var require_wasm = __commonJS({
@@ -47,4 +47,4 @@ var require_wasm = __commonJS({
 export {
   require_wasm
 };
-//# sourceMappingURL=/build/_shared/chunk-LIN435LI.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-LIN435LI.js.map

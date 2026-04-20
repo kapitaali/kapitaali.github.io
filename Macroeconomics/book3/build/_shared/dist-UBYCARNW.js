@@ -4,9 +4,9 @@ import {
   cssLanguage,
   defineCSSCompletionSource,
   init_dist
-} from "/build/_shared/chunk-H6SVTQIS.js";
-import "/build/_shared/chunk-3I3NFLZ5.js";
-import "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-H6SVTQIS.js";
+import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-3I3NFLZ5.js";
+import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 init_dist();
 export {
   css,
@@ -14,4 +14,4 @@ export {
   cssLanguage,
   defineCSSCompletionSource
 };
-//# sourceMappingURL=/build/_shared/dist-UBYCARNW.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/dist-UBYCARNW.js.map

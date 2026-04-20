@@ -1,33 +1,33 @@
 import {
   package_default
-} from "/build/_shared/chunk-EYXQDAO3.js";
+} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-EYXQDAO3.js";
 import {
   selectSvgElement
-} from "/build/_shared/chunk-YZZVRB5P.js";
+} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-YZZVRB5P.js";
 import {
   parse
-} from "/build/_shared/chunk-OA3SYV6I.js";
-import "/build/_shared/chunk-FLZJMRFV.js";
-import "/build/_shared/chunk-MD55FDMD.js";
-import "/build/_shared/chunk-UH5LSYEI.js";
-import "/build/_shared/chunk-GJ35H52W.js";
-import "/build/_shared/chunk-WGO24YBI.js";
-import "/build/_shared/chunk-UORA2QU4.js";
-import "/build/_shared/chunk-2WSSL7DL.js";
-import "/build/_shared/chunk-5TL5RV2T.js";
-import "/build/_shared/chunk-75Y45RJ5.js";
+} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-OA3SYV6I.js";
+import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-FLZJMRFV.js";
+import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-MD55FDMD.js";
+import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-UH5LSYEI.js";
+import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-GJ35H52W.js";
+import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-WGO24YBI.js";
+import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-UORA2QU4.js";
+import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-2WSSL7DL.js";
+import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-5TL5RV2T.js";
+import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-75Y45RJ5.js";
 import {
   configureSvgSize
-} from "/build/_shared/chunk-463FZTZ7.js";
+} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-463FZTZ7.js";
 import {
   __name,
   log
-} from "/build/_shared/chunk-7PDOACA3.js";
-import "/build/_shared/chunk-5XJWQ5WJ.js";
-import "/build/_shared/chunk-SP2MKLPW.js";
-import "/build/_shared/chunk-T7QTAV5N.js";
-import "/build/_shared/chunk-2WW6JOYG.js";
-import "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-7PDOACA3.js";
+import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-5XJWQ5WJ.js";
+import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-SP2MKLPW.js";
+import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-T7QTAV5N.js";
+import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-2WW6JOYG.js";
+import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/mermaid/dist/chunks/mermaid.core/infoDiagram-WHAUD3N6.mjs
 var parser = {
@@ -59,4 +59,4 @@ var diagram = {
 export {
   diagram
 };
-//# sourceMappingURL=/build/_shared/infoDiagram-WHAUD3N6-JTVWR6NY.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/infoDiagram-WHAUD3N6-JTVWR6NY.js.map

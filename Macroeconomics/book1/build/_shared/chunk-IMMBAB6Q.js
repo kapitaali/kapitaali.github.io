@@ -9,4 +9,4 @@ var SourceFileKind;
 export {
   SourceFileKind
 };
-//# sourceMappingURL=/build/_shared/chunk-IMMBAB6Q.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-IMMBAB6Q.js.map

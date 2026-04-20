@@ -1,12 +1,12 @@
 import {
   addCommonDirectiveOptions,
   commonDirectiveOptions
-} from "/build/_shared/chunk-2GZXDR27.js";
-import "/build/_shared/chunk-DOEQHMLC.js";
-import "/build/_shared/chunk-ZNG4DSCS.js";
-import "/build/_shared/chunk-Q6DHUCUI.js";
-import "/build/_shared/chunk-LPSXN4QV.js";
-import "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-2GZXDR27.js";
+import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-DOEQHMLC.js";
+import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-ZNG4DSCS.js";
+import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-Q6DHUCUI.js";
+import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-LPSXN4QV.js";
+import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/myst-ext-proof/dist/proof.js
 var proofDirective = {
@@ -73,4 +73,4 @@ var proofDirective = {
 export {
   proofDirective
 };
-//# sourceMappingURL=/build/_shared/dist-CHBDMFYC.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/dist-CHBDMFYC.js.map

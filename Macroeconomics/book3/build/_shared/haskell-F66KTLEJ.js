@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/haskell.js
 function switchState(source, setState, f) {
@@ -468,4 +468,4 @@ init_haskell();
 export {
   haskell
 };
-//# sourceMappingURL=/build/_shared/haskell-F66KTLEJ.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/haskell-F66KTLEJ.js.map

@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/node-repl.js
 var require_node_repl = __commonJS({
@@ -36,4 +36,4 @@ var require_node_repl = __commonJS({
   }
 });
 export default require_node_repl();
-//# sourceMappingURL=/build/_shared/node-repl-O2ICLQBA.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/node-repl-O2ICLQBA.js.map

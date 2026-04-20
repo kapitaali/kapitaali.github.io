@@ -1,6 +1,6 @@
 import {
   require_cfscript
-} from "/build/_shared/chunk-IDYJEI4G.js";
-import "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-IDYJEI4G.js";
+import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 export default require_cfscript();
-//# sourceMappingURL=/build/_shared/cfscript-BF4MOMRC.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/cfscript-BF4MOMRC.js.map

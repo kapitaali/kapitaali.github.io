@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/mercury.js
 var require_mercury = __commonJS({
@@ -97,4 +97,4 @@ var require_mercury = __commonJS({
   }
 });
 export default require_mercury();
-//# sourceMappingURL=/build/_shared/mercury-HIDV7SBZ.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/mercury-HIDV7SBZ.js.map

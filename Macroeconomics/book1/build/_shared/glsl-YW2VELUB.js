@@ -1,7 +1,7 @@
 import {
   require_glsl
-} from "/build/_shared/chunk-IQDFWTQL.js";
-import "/build/_shared/chunk-Y5OVBNFJ.js";
-import "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-IQDFWTQL.js";
+import "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-Y5OVBNFJ.js";
+import "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 export default require_glsl();
-//# sourceMappingURL=/build/_shared/glsl-YW2VELUB.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/glsl-YW2VELUB.js.map

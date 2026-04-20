@@ -1,6 +1,6 @@
 import {
   require_openqasm
-} from "/build/_shared/chunk-ZJTG6EXB.js";
-import "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-ZJTG6EXB.js";
+import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 export default require_openqasm();
-//# sourceMappingURL=/build/_shared/openqasm-QC7E5Y2M.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/openqasm-QC7E5Y2M.js.map

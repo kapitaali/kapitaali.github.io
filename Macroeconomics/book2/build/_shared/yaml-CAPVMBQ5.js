@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/yaml.js
 var cons, keywordRegex, yaml;
@@ -116,4 +116,4 @@ init_yaml();
 export {
   yaml
 };
-//# sourceMappingURL=/build/_shared/yaml-CAPVMBQ5.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/yaml-CAPVMBQ5.js.map

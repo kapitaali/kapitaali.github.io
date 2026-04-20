@@ -1,9 +1,9 @@
 import {
   require_sql
-} from "/build/_shared/chunk-PY3WXTWD.js";
+} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-PY3WXTWD.js";
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/plsql.js
 var require_plsql = __commonJS({
@@ -37,4 +37,4 @@ var require_plsql = __commonJS({
 export {
   require_plsql
 };
-//# sourceMappingURL=/build/_shared/chunk-G6SSALTZ.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-G6SSALTZ.js.map

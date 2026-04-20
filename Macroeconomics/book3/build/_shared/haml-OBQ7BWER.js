@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/haml.js
 var require_haml = __commonJS({
@@ -115,4 +115,4 @@ var require_haml = __commonJS({
   }
 });
 export default require_haml();
-//# sourceMappingURL=/build/_shared/haml-OBQ7BWER.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/haml-OBQ7BWER.js.map

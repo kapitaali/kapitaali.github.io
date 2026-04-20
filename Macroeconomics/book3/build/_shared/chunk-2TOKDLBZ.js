@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/rest.js
 var require_rest = __commonJS({
@@ -214,4 +214,4 @@ var require_rest = __commonJS({
 export {
   require_rest
 };
-//# sourceMappingURL=/build/_shared/chunk-2TOKDLBZ.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-2TOKDLBZ.js.map

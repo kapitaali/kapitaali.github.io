@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/swift.js
 var require_swift = __commonJS({
@@ -799,4 +799,4 @@ var require_swift = __commonJS({
   }
 });
 export default require_swift();
-//# sourceMappingURL=/build/_shared/swift-2RPS6J6S.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/swift-2RPS6J6S.js.map

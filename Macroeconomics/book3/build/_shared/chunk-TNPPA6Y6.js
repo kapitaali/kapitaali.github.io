@@ -1,6 +1,6 @@
 import {
   __name
-} from "/build/_shared/chunk-7PDOACA3.js";
+} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-7PDOACA3.js";
 
 // ../../node_modules/mermaid/dist/chunks/mermaid.core/chunk-QZHKN3VN.mjs
 var ImperativeState = class {
@@ -22,4 +22,4 @@ var ImperativeState = class {
 export {
   ImperativeState
 };
-//# sourceMappingURL=/build/_shared/chunk-TNPPA6Y6.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-TNPPA6Y6.js.map

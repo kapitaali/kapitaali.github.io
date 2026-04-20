@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/latex.js
 var require_latex = __commonJS({
@@ -259,4 +259,4 @@ var require_latex = __commonJS({
   }
 });
 export default require_latex();
-//# sourceMappingURL=/build/_shared/latex-WB2B7ADL.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/latex-WB2B7ADL.js.map

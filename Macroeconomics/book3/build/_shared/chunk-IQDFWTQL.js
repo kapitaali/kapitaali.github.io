@@ -1,9 +1,9 @@
 import {
   require_c
-} from "/build/_shared/chunk-Y5OVBNFJ.js";
+} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-Y5OVBNFJ.js";
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/glsl.js
 var require_glsl = __commonJS({
@@ -24,4 +24,4 @@ var require_glsl = __commonJS({
 export {
   require_glsl
 };
-//# sourceMappingURL=/build/_shared/chunk-IQDFWTQL.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-IQDFWTQL.js.map

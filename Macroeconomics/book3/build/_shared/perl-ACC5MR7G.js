@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/perl.js
 function look(stream, c) {
@@ -1114,4 +1114,4 @@ init_perl();
 export {
   perl
 };
-//# sourceMappingURL=/build/_shared/perl-ACC5MR7G.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/perl-ACC5MR7G.js.map

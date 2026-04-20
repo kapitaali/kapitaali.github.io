@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/css.js
 var require_css = __commonJS({
@@ -597,4 +597,4 @@ var require_css = __commonJS({
   }
 });
 export default require_css();
-//# sourceMappingURL=/build/_shared/css-TOK3G2XH.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/css-TOK3G2XH.js.map

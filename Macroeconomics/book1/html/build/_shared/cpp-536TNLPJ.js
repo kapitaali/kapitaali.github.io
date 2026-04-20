@@ -1,1 +1,0 @@
-import{a}from"/Macroeconomics/book1/build/_shared/chunk-YB2OJRYJ.js";import"/Macroeconomics/book1/build/_shared/chunk-CBDDV5MN.js";import"/Macroeconomics/book1/build/_shared/chunk-OZE3FFNP.js";export default a();

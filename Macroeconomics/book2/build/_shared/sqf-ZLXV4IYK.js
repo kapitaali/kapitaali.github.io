@@ -1,6 +1,6 @@
 import {
   require_sqf
-} from "/build/_shared/chunk-HMROFNJF.js";
-import "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-HMROFNJF.js";
+import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 export default require_sqf();
-//# sourceMappingURL=/build/_shared/sqf-ZLXV4IYK.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/sqf-ZLXV4IYK.js.map

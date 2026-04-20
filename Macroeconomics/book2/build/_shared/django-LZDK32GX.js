@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/django.js
 var require_django = __commonJS({
@@ -55,4 +55,4 @@ var require_django = __commonJS({
   }
 });
 export default require_django();
-//# sourceMappingURL=/build/_shared/django-LZDK32GX.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/django-LZDK32GX.js.map

@@ -1,6 +1,6 @@
 import {
   require_pascal
-} from "/build/_shared/chunk-KZ2DZXND.js";
-import "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-KZ2DZXND.js";
+import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 export default require_pascal();
-//# sourceMappingURL=/build/_shared/pascal-TJ2NJU4P.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/pascal-TJ2NJU4P.js.map

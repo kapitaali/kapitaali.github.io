@@ -1,6 +1,6 @@
 import {
   __esm
-} from "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/cypher.js
 var wordRegexp, tokenBase, pushContext, popContext, curPunc, funcs, preds, keywords, systemKeywords, operatorChars, cypher;
@@ -135,4 +135,4 @@ init_cypher();
 export {
   cypher
 };
-//# sourceMappingURL=/build/_shared/cypher-AQWVCBVI.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/cypher-AQWVCBVI.js.map

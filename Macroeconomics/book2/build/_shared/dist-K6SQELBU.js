@@ -8,9 +8,9 @@ import {
   selectAll,
   toText,
   writeTexLabelledComment
-} from "/build/_shared/chunk-Q6DHUCUI.js";
-import "/build/_shared/chunk-LPSXN4QV.js";
-import "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-Q6DHUCUI.js";
+import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-LPSXN4QV.js";
+import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/myst-to-tex/dist/types.js
 var DEFAULT_IMAGE_WIDTH = 0.7;
@@ -1475,4 +1475,4 @@ export {
   generatePreamble,
   mergePreambles
 };
-//# sourceMappingURL=/build/_shared/dist-K6SQELBU.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/dist-K6SQELBU.js.map

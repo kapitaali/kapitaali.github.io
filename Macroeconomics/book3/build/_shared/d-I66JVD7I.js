@@ -1,6 +1,6 @@
 import {
   require_d
-} from "/build/_shared/chunk-6XWODOFX.js";
-import "/build/_shared/chunk-CGOEG7L2.js";
+} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-6XWODOFX.js";
+import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 export default require_d();
-//# sourceMappingURL=/build/_shared/d-I66JVD7I.js.map
+//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/d-I66JVD7I.js.map
