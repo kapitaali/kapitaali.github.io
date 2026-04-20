@@ -1,0 +1,6 @@
+import {
+  require_zig
+} from "/Macroeconomics/book3/build/_shared/chunk-4ZHK3HRX.js";
+import "/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
+export default require_zig();
+//# sourceMappingURL=/Macroeconomics/book3/build/_shared/zig-BJBMZMLZ.js.map
