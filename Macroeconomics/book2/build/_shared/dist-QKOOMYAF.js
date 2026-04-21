@@ -1,12 +1,12 @@
 import {
   renderEquation
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-NT723IVF.js";
-import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-JUCOPL2A.js";
-import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-YX4KLQK2.js";
-import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-YTFS7O5J.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-NT723IVF.js";
+import "/Macroeconomics/book2/build/_shared/chunk-JUCOPL2A.js";
+import "/Macroeconomics/book2/build/_shared/chunk-YX4KLQK2.js";
+import "/Macroeconomics/book2/build/_shared/chunk-YTFS7O5J.js";
 import {
   SourceFileKind
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-IMMBAB6Q.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-IMMBAB6Q.js";
 import {
   CREDIT_URL,
   buildUrl,
@@ -14,12 +14,12 @@ import {
   normalize,
   orcid,
   validate
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-7SI5XUIQ.js";
-import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-DOEQHMLC.js";
-import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-ZNG4DSCS.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-7SI5XUIQ.js";
+import "/Macroeconomics/book2/build/_shared/chunk-DOEQHMLC.js";
+import "/Macroeconomics/book2/build/_shared/chunk-ZNG4DSCS.js";
 import {
   VFile
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-MWXHQG25.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-MWXHQG25.js";
 import {
   NotebookCell,
   RuleId,
@@ -32,15 +32,15 @@ import {
   select,
   selectAll,
   selectBlockParts
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-Q6DHUCUI.js";
-import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-LPSXN4QV.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-Q6DHUCUI.js";
+import "/Macroeconomics/book2/build/_shared/chunk-LPSXN4QV.js";
 import {
   __commonJS,
   __esm,
   __export,
   __toCommonJS,
   __toESM
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // node-modules-polyfills:stream
 function dew$2() {
@@ -17737,4 +17737,4 @@ export {
 sax/lib/sax.js:
   (*! http://mths.be/fromcodepoint v0.1.0 by @mathias *)
 */
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/dist-QKOOMYAF.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/dist-QKOOMYAF.js.map

@@ -1,6 +1,6 @@
 import {
   require_gdscript
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-6T7CHLR3.js";
-import "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-6T7CHLR3.js";
+import "/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 export default require_gdscript();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/gdscript-ZWMC3FQC.js.map
+//# sourceMappingURL=/Macroeconomics/book1/build/_shared/gdscript-ZWMC3FQC.js.map

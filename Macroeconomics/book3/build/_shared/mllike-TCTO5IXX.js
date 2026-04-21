@@ -1,6 +1,6 @@
 import {
   __esm
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/mllike.js
 function mlLike(parserConfig) {
@@ -351,4 +351,4 @@ export {
   oCaml,
   sml
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/mllike-TCTO5IXX.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/_shared/mllike-TCTO5IXX.js.map

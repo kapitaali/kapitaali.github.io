@@ -144,4 +144,4 @@ var package_default = {
 export {
   package_default
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-EYXQDAO3.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/_shared/chunk-EYXQDAO3.js.map

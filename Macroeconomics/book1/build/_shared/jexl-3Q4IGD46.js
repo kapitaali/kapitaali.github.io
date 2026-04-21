@@ -1,6 +1,6 @@
 import {
   require_jexl
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-2PVEUVAI.js";
-import "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-2PVEUVAI.js";
+import "/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 export default require_jexl();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/jexl-3Q4IGD46.js.map
+//# sourceMappingURL=/Macroeconomics/book1/build/_shared/jexl-3Q4IGD46.js.map

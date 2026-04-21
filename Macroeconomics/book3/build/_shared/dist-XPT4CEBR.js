@@ -1,11 +1,11 @@
 import {
   require_color_name,
   require_color_string
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-VF3UZM2T.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-VF3UZM2T.js";
 import {
   unified
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-YX4KLQK2.js";
-import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-MWXHQG25.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-YX4KLQK2.js";
+import "/Macroeconomics/book3/build/_shared/chunk-MWXHQG25.js";
 import {
   fileError,
   fileWarn,
@@ -14,12 +14,12 @@ import {
   select,
   selectAll,
   toText
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-Q6DHUCUI.js";
-import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-LPSXN4QV.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-Q6DHUCUI.js";
+import "/Macroeconomics/book3/build/_shared/chunk-LPSXN4QV.js";
 import {
   __commonJS,
   __toESM
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/trie-prefix-tree/dist/config.js
 var require_config = __commonJS({
@@ -24063,4 +24063,4 @@ var dist_default = plugin;
 export {
   dist_default as default
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/dist-XPT4CEBR.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/_shared/dist-XPT4CEBR.js.map

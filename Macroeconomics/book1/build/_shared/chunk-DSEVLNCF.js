@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/markdown.js
 var require_markdown = __commonJS({
@@ -379,4 +379,4 @@ var require_markdown = __commonJS({
 export {
   require_markdown
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-DSEVLNCF.js.map
+//# sourceMappingURL=/Macroeconomics/book1/build/_shared/chunk-DSEVLNCF.js.map

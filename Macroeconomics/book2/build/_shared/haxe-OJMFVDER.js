@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/haxe.js
 var require_haxe = __commonJS({
@@ -160,4 +160,4 @@ var require_haxe = __commonJS({
   }
 });
 export default require_haxe();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/haxe-OJMFVDER.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/haxe-OJMFVDER.js.map

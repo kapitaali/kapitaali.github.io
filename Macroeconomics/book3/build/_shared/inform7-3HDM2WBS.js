@@ -1,6 +1,6 @@
 import {
   require_inform7
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-SYJQRUTQ.js";
-import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-SYJQRUTQ.js";
+import "/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 export default require_inform7();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/inform7-3HDM2WBS.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/_shared/inform7-3HDM2WBS.js.map

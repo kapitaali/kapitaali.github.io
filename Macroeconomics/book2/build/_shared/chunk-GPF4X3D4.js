@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/nand2tetris-hdl.js
 var require_nand2tetris_hdl = __commonJS({
@@ -25,4 +25,4 @@ var require_nand2tetris_hdl = __commonJS({
 export {
   require_nand2tetris_hdl
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-GPF4X3D4.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/chunk-GPF4X3D4.js.map

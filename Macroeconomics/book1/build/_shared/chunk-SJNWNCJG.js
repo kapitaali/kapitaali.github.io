@@ -1,6 +1,6 @@
 import {
   __name
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-7PDOACA3.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-7PDOACA3.js";
 
 // ../../node_modules/mermaid/dist/chunks/mermaid.core/chunk-HN2XXSSU.mjs
 var markerOffsets = {
@@ -157,4 +157,4 @@ export {
   markerOffsets2,
   getLineFunctionsWithOffset
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-SJNWNCJG.js.map
+//# sourceMappingURL=/Macroeconomics/book1/build/_shared/chunk-SJNWNCJG.js.map

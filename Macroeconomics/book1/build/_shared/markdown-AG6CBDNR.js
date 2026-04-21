@@ -1,6 +1,6 @@
 import {
   require_markdown
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-DSEVLNCF.js";
-import "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-DSEVLNCF.js";
+import "/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 export default require_markdown();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/markdown-AG6CBDNR.js.map
+//# sourceMappingURL=/Macroeconomics/book1/build/_shared/markdown-AG6CBDNR.js.map

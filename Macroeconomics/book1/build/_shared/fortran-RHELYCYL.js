@@ -1,6 +1,6 @@
 import {
   __esm
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/fortran.js
 function words(array) {
@@ -479,4 +479,4 @@ init_fortran();
 export {
   fortran
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/fortran-RHELYCYL.js.map
+//# sourceMappingURL=/Macroeconomics/book1/build/_shared/fortran-RHELYCYL.js.map

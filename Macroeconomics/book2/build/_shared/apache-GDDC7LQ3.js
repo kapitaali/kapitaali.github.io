@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/apache.js
 var require_apache = __commonJS({
@@ -82,4 +82,4 @@ var require_apache = __commonJS({
   }
 });
 export default require_apache();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/apache-GDDC7LQ3.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/apache-GDDC7LQ3.js.map

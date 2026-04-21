@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/asmatmel.js
 var require_asmatmel = __commonJS({
@@ -57,4 +57,4 @@ var require_asmatmel = __commonJS({
 export {
   require_asmatmel
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-QXOYVHX5.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/chunk-QXOYVHX5.js.map

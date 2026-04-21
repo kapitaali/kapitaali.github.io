@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/plaintext.js
 var require_plaintext = __commonJS({
@@ -19,4 +19,4 @@ var require_plaintext = __commonJS({
   }
 });
 export default require_plaintext();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/plaintext-BWCF6ZFV.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/_shared/plaintext-BWCF6ZFV.js.map

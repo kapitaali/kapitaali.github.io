@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/classnames/index.js
 var require_classnames = __commonJS({
@@ -74,4 +74,4 @@ classnames/index.js:
   	http://jedwatson.github.io/classnames
   *)
 */
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-ZNG4DSCS.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/chunk-ZNG4DSCS.js.map

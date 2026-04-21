@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/pf.js
 var require_pf = __commonJS({
@@ -42,4 +42,4 @@ var require_pf = __commonJS({
   }
 });
 export default require_pf();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/pf-X7P5IGAB.js.map
+//# sourceMappingURL=/Macroeconomics/book1/build/_shared/pf-X7P5IGAB.js.map

@@ -1,6 +1,6 @@
 import {
   require_cmake
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-F5ZK3MEN.js";
-import "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-F5ZK3MEN.js";
+import "/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 export default require_cmake();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/cmake-VFCKLCDQ.js.map
+//# sourceMappingURL=/Macroeconomics/book1/build/_shared/cmake-VFCKLCDQ.js.map

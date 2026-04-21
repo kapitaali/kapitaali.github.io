@@ -1,10 +1,10 @@
 import {
   getConfig2
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-463FZTZ7.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-463FZTZ7.js";
 import {
   __name,
   select_default
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-7PDOACA3.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-7PDOACA3.js";
 
 // ../../node_modules/mermaid/dist/chunks/mermaid.core/chunk-EXTU4WIE.mjs
 var selectSvgElement = /* @__PURE__ */ __name((id) => {
@@ -22,4 +22,4 @@ var selectSvgElement = /* @__PURE__ */ __name((id) => {
 export {
   selectSvgElement
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-YZZVRB5P.js.map
+//# sourceMappingURL=/Macroeconomics/book1/build/_shared/chunk-YZZVRB5P.js.map

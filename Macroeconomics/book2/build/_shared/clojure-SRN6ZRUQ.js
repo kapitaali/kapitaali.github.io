@@ -1,6 +1,6 @@
 import {
   __esm
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/clojure.js
 function base(stream, state) {
@@ -875,4 +875,4 @@ init_clojure();
 export {
   clojure
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/clojure-SRN6ZRUQ.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/clojure-SRN6ZRUQ.js.map

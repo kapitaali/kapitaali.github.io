@@ -1,6 +1,6 @@
 import {
   __esm
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/ttcn-cfg.js
 function words(str) {
@@ -160,4 +160,4 @@ init_ttcn_cfg();
 export {
   ttcnCfg
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/ttcn-cfg-FLMZM44L.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/_shared/ttcn-cfg-FLMZM44L.js.map

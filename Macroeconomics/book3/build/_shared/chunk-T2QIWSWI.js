@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/abnf.js
 var require_abnf = __commonJS({
@@ -71,4 +71,4 @@ var require_abnf = __commonJS({
 export {
   require_abnf
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-T2QIWSWI.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/_shared/chunk-T2QIWSWI.js.map

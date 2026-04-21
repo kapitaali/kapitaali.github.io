@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/verilog.js
 var require_verilog = __commonJS({
@@ -70,4 +70,4 @@ var require_verilog = __commonJS({
   }
 });
 export default require_verilog();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/verilog-3M6HMXRK.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/verilog-3M6HMXRK.js.map

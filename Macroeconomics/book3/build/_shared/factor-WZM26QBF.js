@@ -1,10 +1,10 @@
 import {
   init_simple_mode,
   simpleMode
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-TVPXKM32.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-TVPXKM32.js";
 import {
   __esm
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/factor.js
 var factor;
@@ -78,4 +78,4 @@ init_factor();
 export {
   factor
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/factor-WZM26QBF.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/_shared/factor-WZM26QBF.js.map

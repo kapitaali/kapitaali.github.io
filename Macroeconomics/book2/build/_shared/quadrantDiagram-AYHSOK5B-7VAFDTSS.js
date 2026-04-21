@@ -11,15 +11,15 @@ import {
   setAccDescription,
   setAccTitle,
   setDiagramTitle
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-463FZTZ7.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-463FZTZ7.js";
 import {
   __name,
   linear,
   log,
   select_default
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-7PDOACA3.js";
-import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-2WW6JOYG.js";
-import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-7PDOACA3.js";
+import "/Macroeconomics/book2/build/_shared/chunk-2WW6JOYG.js";
+import "/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/mermaid/dist/chunks/mermaid.core/quadrantDiagram-AYHSOK5B.mjs
 var parser = function() {
@@ -1408,4 +1408,4 @@ var diagram = {
 export {
   diagram
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/quadrantDiagram-AYHSOK5B-7VAFDTSS.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/quadrantDiagram-AYHSOK5B-7VAFDTSS.js.map

@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/scala.js
 var require_scala = __commonJS({
@@ -129,4 +129,4 @@ var require_scala = __commonJS({
   }
 });
 export default require_scala();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/scala-KSCWN52X.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/scala-KSCWN52X.js.map

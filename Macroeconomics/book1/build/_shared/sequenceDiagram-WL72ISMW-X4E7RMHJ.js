@@ -1,6 +1,6 @@
 import {
   ImperativeState
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-TNPPA6Y6.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-TNPPA6Y6.js";
 import {
   drawBackgroundRect,
   drawEmbeddedImage,
@@ -8,19 +8,19 @@ import {
   drawRect,
   getNoteRect,
   getTextObj
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-PBNQRLL6.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-PBNQRLL6.js";
 import {
   JSON_SCHEMA,
   load
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-OXD2KSWA.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-OXD2KSWA.js";
 import {
   ZERO_WIDTH_SPACE,
   parseFontSize,
   utils_default
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-WEDXSMQA.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-WEDXSMQA.js";
 import {
   require_dist
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-6CUK2GM5.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-6CUK2GM5.js";
 import {
   assignWithDepth_default,
   calculateMathMLDimensions,
@@ -40,17 +40,17 @@ import {
   setAccTitle,
   setConfig2,
   setDiagramTitle
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-463FZTZ7.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-463FZTZ7.js";
 import {
   __name,
   log,
   select_default
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-7PDOACA3.js";
-import "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-T7QTAV5N.js";
-import "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-2WW6JOYG.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-7PDOACA3.js";
+import "/Macroeconomics/book1/build/_shared/chunk-T7QTAV5N.js";
+import "/Macroeconomics/book1/build/_shared/chunk-2WW6JOYG.js";
 import {
   __toESM
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/mermaid/dist/chunks/mermaid.core/sequenceDiagram-WL72ISMW.mjs
 var import_sanitize_url = __toESM(require_dist(), 1);
@@ -4007,4 +4007,4 @@ var diagram = {
 export {
   diagram
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/sequenceDiagram-WL72ISMW-X4E7RMHJ.js.map
+//# sourceMappingURL=/Macroeconomics/book1/build/_shared/sequenceDiagram-WL72ISMW-X4E7RMHJ.js.map

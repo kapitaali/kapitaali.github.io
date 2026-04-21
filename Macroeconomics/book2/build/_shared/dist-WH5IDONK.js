@@ -1,15 +1,15 @@
 import {
   addCommonDirectiveOptions,
   commonDirectiveOptions
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-2GZXDR27.js";
-import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-DOEQHMLC.js";
-import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-ZNG4DSCS.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-2GZXDR27.js";
+import "/Macroeconomics/book2/build/_shared/chunk-DOEQHMLC.js";
+import "/Macroeconomics/book2/build/_shared/chunk-ZNG4DSCS.js";
 import {
   createId,
   normalizeLabel
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-Q6DHUCUI.js";
-import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-LPSXN4QV.js";
-import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-Q6DHUCUI.js";
+import "/Macroeconomics/book2/build/_shared/chunk-LPSXN4QV.js";
+import "/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/myst-ext-exercise/dist/exercise.js
 var exerciseDirective = {
@@ -128,4 +128,4 @@ export {
   exerciseDirectives,
   solutionDirective
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/dist-WH5IDONK.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/dist-WH5IDONK.js.map

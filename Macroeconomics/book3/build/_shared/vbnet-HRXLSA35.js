@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/vbnet.js
 var require_vbnet = __commonJS({
@@ -164,4 +164,4 @@ var require_vbnet = __commonJS({
   }
 });
 export default require_vbnet();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/vbnet-HRXLSA35.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/_shared/vbnet-HRXLSA35.js.map

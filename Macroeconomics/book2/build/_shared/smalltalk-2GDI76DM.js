@@ -1,6 +1,6 @@
 import {
   __esm
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/smalltalk.js
 var specialChars, keywords, Context, Token, State, next, nextComment, nextString, nextSymbol, nextTemporaries, smalltalk;
@@ -130,4 +130,4 @@ init_smalltalk();
 export {
   smalltalk
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/smalltalk-2GDI76DM.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/smalltalk-2GDI76DM.js.map

@@ -1,6 +1,6 @@
 import {
   __name
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-7PDOACA3.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-7PDOACA3.js";
 
 // ../../node_modules/mermaid/dist/chunks/mermaid.core/chunk-FMBD7UC4.mjs
 var getIconStyles = /* @__PURE__ */ __name(() => `
@@ -22,4 +22,4 @@ var getIconStyles = /* @__PURE__ */ __name(() => `
 export {
   getIconStyles
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-BGO6WPMI.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/_shared/chunk-BGO6WPMI.js.map

@@ -10,15 +10,15 @@ import {
   setAccTitle,
   setDiagramTitle,
   setupGraphViewbox
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-463FZTZ7.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-463FZTZ7.js";
 import {
   Tableau10_default,
   __name,
   ordinal,
   select_default
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-7PDOACA3.js";
-import "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-2WW6JOYG.js";
-import "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-7PDOACA3.js";
+import "/Macroeconomics/book1/build/_shared/chunk-2WW6JOYG.js";
+import "/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/d3-path/src/path.js
 var pi = Math.PI;
@@ -1363,4 +1363,4 @@ var diagram = {
 export {
   diagram
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/sankeyDiagram-TZEHDZUN-TNMTU4WP.js.map
+//# sourceMappingURL=/Macroeconomics/book1/build/_shared/sankeyDiagram-TZEHDZUN-TNMTU4WP.js.map

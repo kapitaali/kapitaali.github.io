@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/delphi.js
 var require_delphi = __commonJS({
@@ -116,4 +116,4 @@ var require_delphi = __commonJS({
   }
 });
 export default require_delphi();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/delphi-WVYNU27M.js.map
+//# sourceMappingURL=/Macroeconomics/book1/build/_shared/delphi-WVYNU27M.js.map

@@ -1,6 +1,6 @@
 import {
   __esm
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/sieve.js
 function words(str) {
@@ -146,4 +146,4 @@ init_sieve();
 export {
   sieve
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/sieve-KR56TNOZ.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/sieve-KR56TNOZ.js.map

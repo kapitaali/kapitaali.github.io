@@ -1,8 +1,8 @@
 import {
   Widget,
   init_index_es62 as init_index_es6
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-ZNGG4FXY.js";
-import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-ZNGG4FXY.js";
+import "/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/jupyterlab-plotly/lib/plotly-renderer.js
 init_index_es6();
@@ -106,7 +106,7 @@ var RenderedPlotly = class extends Widget {
     }
     const loadPlotly = () => __awaiter(this, void 0, void 0, function* () {
       if (RenderedPlotly.Plotly === null) {
-        RenderedPlotly.Plotly = yield import("https://kapitaali.github.io/Macroeconomics/book3/build/_shared/plotly-ELWLZ5EC.js");
+        RenderedPlotly.Plotly = yield import("/Macroeconomics/book3/build/_shared/plotly-ELWLZ5EC.js");
         RenderedPlotly.Plotly = RenderedPlotly.Plotly.default;
         RenderedPlotly._resolveLoadingPlotly();
       }
@@ -205,4 +205,4 @@ export {
   plotly_renderer_default as default,
   rendererFactory
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/plotly-renderer-MVA6RQ6V.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/_shared/plotly-renderer-MVA6RQ6V.js.map

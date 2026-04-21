@@ -1,6 +1,6 @@
 import {
   __esm
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/javascript.js
 function mkJavaScript(parserConfig) {
@@ -1175,4 +1175,4 @@ export {
   typescript,
   init_javascript
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-5IUD4EPL.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/chunk-5IUD4EPL.js.map

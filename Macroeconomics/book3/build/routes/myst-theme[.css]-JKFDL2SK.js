@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // browser-route-module:routes/myst-theme[.css].ts?browser
 var require_myst_theme_css = __commonJS({
@@ -9,4 +9,4 @@ var require_myst_theme_css = __commonJS({
   }
 });
 export default require_myst_theme_css();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/routes/myst-theme[.css]-JKFDL2SK.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/routes/myst-theme[.css]-JKFDL2SK.js.map

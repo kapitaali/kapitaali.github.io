@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/nix.js
 var require_nix = __commonJS({
@@ -53,4 +53,4 @@ var require_nix = __commonJS({
 export {
   require_nix
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-YDUTPWPF.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/_shared/chunk-YDUTPWPF.js.map

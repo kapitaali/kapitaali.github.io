@@ -1,7 +1,7 @@
 import {
   require_django
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-ZP66EOH4.js";
-import "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-E6QZW6U4.js";
-import "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-ZP66EOH4.js";
+import "/Macroeconomics/book1/build/_shared/chunk-E6QZW6U4.js";
+import "/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 export default require_django();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/django-T5ITTGTH.js.map
+//# sourceMappingURL=/Macroeconomics/book1/build/_shared/django-T5ITTGTH.js.map

@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/less.js
 var require_less = __commonJS({
@@ -657,4 +657,4 @@ var require_less = __commonJS({
   }
 });
 export default require_less();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/less-DNDSQKZ2.js.map
+//# sourceMappingURL=/Macroeconomics/book1/build/_shared/less-DNDSQKZ2.js.map

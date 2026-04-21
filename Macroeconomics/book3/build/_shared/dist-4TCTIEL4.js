@@ -1,12 +1,12 @@
 import {
   addCommonDirectiveOptions,
   commonDirectiveOptions
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-2GZXDR27.js";
-import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-DOEQHMLC.js";
-import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-ZNG4DSCS.js";
-import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-Q6DHUCUI.js";
-import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-LPSXN4QV.js";
-import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-2GZXDR27.js";
+import "/Macroeconomics/book3/build/_shared/chunk-DOEQHMLC.js";
+import "/Macroeconomics/book3/build/_shared/chunk-ZNG4DSCS.js";
+import "/Macroeconomics/book3/build/_shared/chunk-Q6DHUCUI.js";
+import "/Macroeconomics/book3/build/_shared/chunk-LPSXN4QV.js";
+import "/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/myst-ext-tabs/dist/index.js
 var tabSetDirective = {
@@ -65,4 +65,4 @@ export {
   tabItemDirective,
   tabSetDirective
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/dist-4TCTIEL4.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/_shared/dist-4TCTIEL4.js.map

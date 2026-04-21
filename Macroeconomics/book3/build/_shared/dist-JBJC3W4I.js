@@ -1,4 +1,4 @@
-import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
+import "/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/myst-ext-button/dist/index.js
 var REF_PATTERN = /^(.+?)<([^<>]+)>$/;
@@ -30,4 +30,4 @@ var buttonRole = {
 export {
   buttonRole
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/dist-JBJC3W4I.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/_shared/dist-JBJC3W4I.js.map

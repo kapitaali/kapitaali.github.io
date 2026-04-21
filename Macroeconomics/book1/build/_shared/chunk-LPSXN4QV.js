@@ -197,4 +197,4 @@ export {
   visitParents,
   visit
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-LPSXN4QV.js.map
+//# sourceMappingURL=/Macroeconomics/book1/build/_shared/chunk-LPSXN4QV.js.map

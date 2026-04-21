@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/powershell.js
 var require_powershell = __commonJS({
@@ -278,4 +278,4 @@ var require_powershell = __commonJS({
   }
 });
 export default require_powershell();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/powershell-CLQEPVGZ.js.map
+//# sourceMappingURL=/Macroeconomics/book1/build/_shared/powershell-CLQEPVGZ.js.map

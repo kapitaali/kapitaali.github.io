@@ -1,6 +1,6 @@
 import {
   __esm
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/livescript.js
 var tokenBase, identifier, indenter, keywordend, stringfill, Rules, r, rr, i, len, idx, liveScript;
@@ -305,4 +305,4 @@ init_livescript();
 export {
   liveScript
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/livescript-Z6DTHVRD.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/livescript-Z6DTHVRD.js.map

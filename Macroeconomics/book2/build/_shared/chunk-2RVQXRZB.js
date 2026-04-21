@@ -1,11 +1,11 @@
 import {
   require_react
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-3RNZ6DIW.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-3RNZ6DIW.js";
 import {
   __commonJS,
   __esm,
   __toESM
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@remix-run/router/dist/router.js
 function _extends() {
@@ -6968,4 +6968,4 @@ react/cjs/react-jsx-dev-runtime.development.js:
    * @license MIT
    *)
 */
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-2RVQXRZB.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/chunk-2RVQXRZB.js.map

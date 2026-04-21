@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/objectivec.js
 var require_objectivec = __commonJS({
@@ -94,4 +94,4 @@ var require_objectivec = __commonJS({
   }
 });
 export default require_objectivec();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/objectivec-CTXRL6TC.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/_shared/objectivec-CTXRL6TC.js.map

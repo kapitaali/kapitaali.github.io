@@ -1,6 +1,6 @@
 import {
   require_less
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-ZA5X3C3X.js";
-import "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-ZA5X3C3X.js";
+import "/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 export default require_less();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/less-I3GLGABK.js.map
+//# sourceMappingURL=/Macroeconomics/book1/build/_shared/less-I3GLGABK.js.map

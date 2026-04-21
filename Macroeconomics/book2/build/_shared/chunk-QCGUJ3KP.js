@@ -3,7 +3,7 @@ import {
   ifNotIn,
   init_dist as init_dist6,
   snippetCompletion
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-DXWAMBZP.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-DXWAMBZP.js";
 import {
   ContextTracker,
   EditorSelection,
@@ -32,10 +32,10 @@ import {
   sublanguageProp,
   syntaxTree,
   tags
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-3I3NFLZ5.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-3I3NFLZ5.js";
 import {
   __esm
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@lezer/javascript/dist/index.js
 function identifierChar(ch, start) {
@@ -715,4 +715,4 @@ export {
   esLint,
   init_dist9 as init_dist
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-QCGUJ3KP.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/chunk-QCGUJ3KP.js.map

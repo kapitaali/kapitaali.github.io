@@ -1,20 +1,20 @@
 import {
   getIconStyles
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-BGO6WPMI.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-BGO6WPMI.js";
 import {
   getDiagramElement
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-725C7MY3.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-725C7MY3.js";
 import {
   setupViewPortForSVG
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-WMU6LCGH.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-WMU6LCGH.js";
 import {
   getRegisteredLayoutAlgorithm,
   render
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-QDIBAP63.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-QDIBAP63.js";
 import {
   getEdgeId,
   utils_default
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-WEDXSMQA.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-WEDXSMQA.js";
 import {
   clear,
   common_default,
@@ -27,12 +27,12 @@ import {
   setAccDescription,
   setAccTitle,
   setDiagramTitle
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-463FZTZ7.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-463FZTZ7.js";
 import {
   __name,
   log,
   select_default
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-7PDOACA3.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-7PDOACA3.js";
 
 // ../../node_modules/mermaid/dist/chunks/mermaid.core/chunk-B4BG7PRW.mjs
 var parser = function() {
@@ -1950,4 +1950,4 @@ export {
   styles_default,
   classRenderer_v3_unified_default
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-7TIX7CDU.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/chunk-7TIX7CDU.js.map

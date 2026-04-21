@@ -1,9 +1,9 @@
 import {
   utils_default
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-WEDXSMQA.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-WEDXSMQA.js";
 import {
   require_dist
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-6CUK2GM5.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-6CUK2GM5.js";
 import {
   clear,
   common_default,
@@ -15,7 +15,7 @@ import {
   setAccDescription,
   setAccTitle,
   setDiagramTitle
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-463FZTZ7.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-463FZTZ7.js";
 import {
   __name,
   axisBottom,
@@ -42,13 +42,13 @@ import {
   timeThursday,
   timeTuesday,
   timeWednesday
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-7PDOACA3.js";
-import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-T7QTAV5N.js";
-import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-2WW6JOYG.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-7PDOACA3.js";
+import "/Macroeconomics/book3/build/_shared/chunk-T7QTAV5N.js";
+import "/Macroeconomics/book3/build/_shared/chunk-2WW6JOYG.js";
 import {
   __commonJS,
   __toESM
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/dayjs/plugin/isoWeek.js
 var require_isoWeek = __commonJS({
@@ -2636,4 +2636,4 @@ var diagram = {
 export {
   diagram
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/ganttDiagram-JELNMOA3-55ULYQND.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/_shared/ganttDiagram-JELNMOA3-55ULYQND.js.map

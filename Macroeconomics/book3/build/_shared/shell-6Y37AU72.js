@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/shell.js
 var require_shell = __commonJS({
@@ -28,4 +28,4 @@ var require_shell = __commonJS({
   }
 });
 export default require_shell();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/shell-6Y37AU72.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/_shared/shell-6Y37AU72.js.map

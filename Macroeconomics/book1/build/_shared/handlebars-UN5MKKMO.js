@@ -1,1 +1,1 @@
-import{a}from"https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-KOX2ZSDT.js";import"https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-J3PKFMLQ.js";import"https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/Macroeconomics/book1/build/_shared/chunk-KOX2ZSDT.js";import"/Macroeconomics/book1/build/_shared/chunk-J3PKFMLQ.js";import"/Macroeconomics/book1/build/_shared/chunk-OZE3FFNP.js";export default a();

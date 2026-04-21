@@ -1,23 +1,23 @@
 import {
   selectSvgElement
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-YZZVRB5P.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-YZZVRB5P.js";
 import {
   JSON_SCHEMA,
   load
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-OXD2KSWA.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-OXD2KSWA.js";
 import {
   getIconStyles
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-BGO6WPMI.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-BGO6WPMI.js";
 import {
   insertCluster,
   insertNode,
   positionNode
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-WP6UWRBG.js";
-import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-6ICL6EEV.js";
-import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-R2WPI2J6.js";
-import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-V6SU7KPH.js";
-import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-WEDXSMQA.js";
-import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-6CUK2GM5.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-WP6UWRBG.js";
+import "/Macroeconomics/book3/build/_shared/chunk-6ICL6EEV.js";
+import "/Macroeconomics/book3/build/_shared/chunk-R2WPI2J6.js";
+import "/Macroeconomics/book3/build/_shared/chunk-V6SU7KPH.js";
+import "/Macroeconomics/book3/build/_shared/chunk-WEDXSMQA.js";
+import "/Macroeconomics/book3/build/_shared/chunk-6CUK2GM5.js";
 import {
   darken_default,
   defaultConfig_default,
@@ -26,14 +26,14 @@ import {
   lighten_default,
   sanitizeText,
   setupGraphViewbox
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-463FZTZ7.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-463FZTZ7.js";
 import {
   __name,
   log
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-7PDOACA3.js";
-import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-T7QTAV5N.js";
-import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-2WW6JOYG.js";
-import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-7PDOACA3.js";
+import "/Macroeconomics/book3/build/_shared/chunk-T7QTAV5N.js";
+import "/Macroeconomics/book3/build/_shared/chunk-2WW6JOYG.js";
+import "/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/mermaid/dist/chunks/mermaid.core/kanban-definition-3W4ZIXB7.mjs
 var parser = function() {
@@ -1123,4 +1123,4 @@ var diagram = {
 export {
   diagram
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/kanban-definition-3W4ZIXB7-GBZZNGKR.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/_shared/kanban-definition-3W4ZIXB7-GBZZNGKR.js.map

@@ -1,4 +1,4 @@
-import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
+import "/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/myst-ext-card/dist/index.js
 var HEADER_REGEX = /((?<before>[\s\S]*?)\s+){0,1}\^\^\^(\s+(?<after>[\s\S]*)){0,1}/;
@@ -178,4 +178,4 @@ export {
   cardDirective,
   splitParagraphNode
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/dist-CG3I3ZBM.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/_shared/dist-CG3I3ZBM.js.map

@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/mipsasm.js
 var require_mipsasm = __commonJS({
@@ -83,4 +83,4 @@ var require_mipsasm = __commonJS({
   }
 });
 export default require_mipsasm();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/mipsasm-JPKEFSL4.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/_shared/mipsasm-JPKEFSL4.js.map

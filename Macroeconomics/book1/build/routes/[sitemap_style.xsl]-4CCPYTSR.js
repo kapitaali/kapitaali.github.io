@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // browser-route-module:routes/[sitemap_style.xsl].tsx?browser
 var require_sitemap_style_xsl = __commonJS({
@@ -9,4 +9,4 @@ var require_sitemap_style_xsl = __commonJS({
   }
 });
 export default require_sitemap_style_xsl();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/routes/[sitemap_style.xsl]-4CCPYTSR.js.map
+//# sourceMappingURL=/Macroeconomics/book1/build/routes/[sitemap_style.xsl]-4CCPYTSR.js.map

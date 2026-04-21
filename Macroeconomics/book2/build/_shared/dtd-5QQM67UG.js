@@ -1,6 +1,6 @@
 import {
   __esm
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/dtd.js
 function ret(style, tp) {
@@ -142,4 +142,4 @@ init_dtd();
 export {
   dtd
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/dtd-5QQM67UG.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/dtd-5QQM67UG.js.map

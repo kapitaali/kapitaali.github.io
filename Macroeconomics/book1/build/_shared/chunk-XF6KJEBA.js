@@ -76,32 +76,32 @@ import {
   useSidebarHeight,
   useSiteManifest,
   useThemeTop
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-QYHIDYQN.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-QYHIDYQN.js";
 import {
   require_jsx_runtime
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-IW6XPN43.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-IW6XPN43.js";
 import {
   SourceFileKind
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-IMMBAB6Q.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-IMMBAB6Q.js";
 import {
   require_classnames
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-ZNG4DSCS.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-ZNG4DSCS.js";
 import {
   copyNode
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-Q6DHUCUI.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-Q6DHUCUI.js";
 import {
   isRouteErrorResponse,
   require_jsx_dev_runtime,
   useLoaderData,
   useRouteError
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-2RVQXRZB.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-2RVQXRZB.js";
 import {
   require_react
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-3RNZ6DIW.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-3RNZ6DIW.js";
 import {
   __esm,
   __toESM
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // node-modules-polyfills:crypto
 function dew$2() {
@@ -110438,4 +110438,4 @@ export {
 @jspm/core/nodelibs/browser/crypto.js:
   (*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> *)
 */
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-XF6KJEBA.js.map
+//# sourceMappingURL=/Macroeconomics/book1/build/_shared/chunk-XF6KJEBA.js.map

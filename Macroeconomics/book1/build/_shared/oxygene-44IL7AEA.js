@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/oxygene.js
 var require_oxygene = __commonJS({
@@ -93,4 +93,4 @@ var require_oxygene = __commonJS({
   }
 });
 export default require_oxygene();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/oxygene-44IL7AEA.js.map
+//# sourceMappingURL=/Macroeconomics/book1/build/_shared/oxygene-44IL7AEA.js.map

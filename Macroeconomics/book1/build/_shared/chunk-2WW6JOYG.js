@@ -1,6 +1,6 @@
 import {
   __esm
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/d3-color/src/define.js
 function define_default(constructor, factory, prototype) {
@@ -508,4 +508,4 @@ export {
   hcl,
   init_src
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-2WW6JOYG.js.map
+//# sourceMappingURL=/Macroeconomics/book1/build/_shared/chunk-2WW6JOYG.js.map

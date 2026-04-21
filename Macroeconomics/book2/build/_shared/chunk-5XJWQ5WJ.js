@@ -5,7 +5,7 @@ import {
   init_Set,
   init_baseKeys,
   init_getTag
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-SP2MKLPW.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-SP2MKLPW.js";
 import {
   MapCache_default,
   Stack_default,
@@ -75,10 +75,10 @@ import {
   nodeUtil_default,
   overRest_default,
   setToString_default
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-T7QTAV5N.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-T7QTAV5N.js";
 import {
   __esm
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/lodash-es/keys.js
 function keys(object) {
@@ -2100,4 +2100,4 @@ export {
   uniqueId_default,
   init_uniqueId
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-5XJWQ5WJ.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/chunk-5XJWQ5WJ.js.map

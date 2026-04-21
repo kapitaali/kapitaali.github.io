@@ -1,9 +1,9 @@
 import {
   jsYaml
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-DOEQHMLC.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-DOEQHMLC.js";
 import {
   require_classnames
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-ZNG4DSCS.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-ZNG4DSCS.js";
 import {
   NotebookCell,
   RuleId,
@@ -14,10 +14,10 @@ import {
   parseIndexLine,
   select,
   toText
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-Q6DHUCUI.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-Q6DHUCUI.js";
 import {
   __toESM
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/myst-directives/dist/utils.js
 function classDirectiveOption(nodeType = "node") {
@@ -4827,4 +4827,4 @@ export {
   addCommonDirectiveOptions,
   defaultDirectives
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-2GZXDR27.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/_shared/chunk-2GZXDR27.js.map

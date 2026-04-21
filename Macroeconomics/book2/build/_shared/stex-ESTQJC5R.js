@@ -1,6 +1,6 @@
 import {
   __esm
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/stex.js
 function mkStex(mathMode) {
@@ -240,4 +240,4 @@ export {
   stex,
   stexMath
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/stex-ESTQJC5R.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/stex-ESTQJC5R.js.map

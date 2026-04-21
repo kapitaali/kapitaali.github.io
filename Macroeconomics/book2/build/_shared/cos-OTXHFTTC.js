@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/cos.js
 var require_cos = __commonJS({
@@ -96,4 +96,4 @@ var require_cos = __commonJS({
   }
 });
 export default require_cos();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/cos-OTXHFTTC.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/cos-OTXHFTTC.js.map

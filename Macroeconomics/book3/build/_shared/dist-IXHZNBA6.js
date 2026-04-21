@@ -5,12 +5,12 @@ import {
   htmlCompletionSourceWith,
   htmlLanguage,
   init_dist
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-XHGRI2HF.js";
-import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-H6SVTQIS.js";
-import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-QCGUJ3KP.js";
-import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-DXWAMBZP.js";
-import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-3I3NFLZ5.js";
-import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-XHGRI2HF.js";
+import "/Macroeconomics/book3/build/_shared/chunk-H6SVTQIS.js";
+import "/Macroeconomics/book3/build/_shared/chunk-QCGUJ3KP.js";
+import "/Macroeconomics/book3/build/_shared/chunk-DXWAMBZP.js";
+import "/Macroeconomics/book3/build/_shared/chunk-3I3NFLZ5.js";
+import "/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 init_dist();
 export {
   autoCloseTags,
@@ -19,4 +19,4 @@ export {
   htmlCompletionSourceWith,
   htmlLanguage
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/dist-IXHZNBA6.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/_shared/dist-IXHZNBA6.js.map

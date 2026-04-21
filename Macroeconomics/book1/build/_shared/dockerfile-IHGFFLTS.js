@@ -1,10 +1,10 @@
 import {
   init_simple_mode,
   simpleMode
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-TVPXKM32.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-TVPXKM32.js";
 import {
   __esm
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/dockerfile.js
 var from, fromRegex, shells, shellsAsArrayRegex, expose, exposeRegex, others, instructions, instructionRegex, instructionOnlyLine, instructionWithArguments, dockerFile;
@@ -217,4 +217,4 @@ init_dockerfile();
 export {
   dockerFile
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/dockerfile-IHGFFLTS.js.map
+//# sourceMappingURL=/Macroeconomics/book1/build/_shared/dockerfile-IHGFFLTS.js.map

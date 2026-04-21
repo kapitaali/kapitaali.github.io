@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/avisynth.js
 var require_avisynth = __commonJS({
@@ -184,4 +184,4 @@ var require_avisynth = __commonJS({
 export {
   require_avisynth
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-I2L2FV24.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/_shared/chunk-I2L2FV24.js.map

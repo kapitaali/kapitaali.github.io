@@ -11,10 +11,10 @@ import {
   init_dist6 as init_dist3,
   styleTags,
   tags
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-3I3NFLZ5.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-3I3NFLZ5.js";
 import {
   __esm
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@lezer/json/dist/index.js
 var jsonHighlighting, parser;
@@ -114,4 +114,4 @@ export {
   jsonLanguage,
   jsonParseLinter
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/dist-KTPI7BYK.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/dist-KTPI7BYK.js.map

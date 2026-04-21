@@ -2,7 +2,7 @@ import {
   __commonJS,
   __esm,
   __toESM
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@lumino/widgets/node_modules/@lumino/algorithm/dist/index.es6.js
 function iter(object) {
@@ -19870,4 +19870,4 @@ export {
   PERFORMANCE OF THIS SOFTWARE.
   ***************************************************************************** *)
 */
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-ZNGG4FXY.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/_shared/chunk-ZNGG4FXY.js.map

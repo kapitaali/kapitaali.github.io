@@ -9,7 +9,7 @@ import {
   createDefaultSharedCoreModule,
   inject,
   lib_exports
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-5TL5RV2T.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-5TL5RV2T.js";
 
 // ../../node_modules/@mermaid-js/parser/dist/chunks/mermaid-parser.core/chunk-FWNWRKHM.mjs
 var TreemapTokenBuilder = class extends AbstractMermaidTokenBuilder {
@@ -122,4 +122,4 @@ export {
   TreemapModule,
   createTreemapServices
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-2WSSL7DL.js.map
+//# sourceMappingURL=/Macroeconomics/book1/build/_shared/chunk-2WSSL7DL.js.map

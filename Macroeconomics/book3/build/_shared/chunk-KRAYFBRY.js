@@ -1,9 +1,9 @@
 import {
   require_cpp
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-Y6HUVYQU.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-Y6HUVYQU.js";
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/arduino.js
 var require_arduino = __commonJS({
@@ -27,4 +27,4 @@ var require_arduino = __commonJS({
 export {
   require_arduino
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-KRAYFBRY.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/_shared/chunk-KRAYFBRY.js.map

@@ -1,9 +1,9 @@
 import {
   require_markup_templating
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-E6QZW6U4.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-E6QZW6U4.js";
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/refractor/lang/twig.js
 var require_twig = __commonJS({
@@ -60,4 +60,4 @@ var require_twig = __commonJS({
 export {
   require_twig
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-S7FROPVF.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/chunk-S7FROPVF.js.map

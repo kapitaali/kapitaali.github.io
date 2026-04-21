@@ -1,6 +1,6 @@
 import {
   __esm
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/asn1.js
 function words(str) {
@@ -171,4 +171,4 @@ init_asn1();
 export {
   asn1
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/asn1-DAP3NAU7.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/asn1-DAP3NAU7.js.map

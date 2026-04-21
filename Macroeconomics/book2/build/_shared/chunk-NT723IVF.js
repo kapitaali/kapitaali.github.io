@@ -8,13 +8,13 @@ import {
   parse2,
   rehypeParse,
   webNamespaces
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-JUCOPL2A.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-JUCOPL2A.js";
 import {
   unified
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-YX4KLQK2.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-YX4KLQK2.js";
 import {
   u
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-YTFS7O5J.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-YTFS7O5J.js";
 import {
   doi,
   fillMissingKeys,
@@ -24,13 +24,13 @@ import {
   normalizeJsonToString,
   stashPlaceholder,
   validationWarning
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-7SI5XUIQ.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-7SI5XUIQ.js";
 import {
   jsYaml
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-DOEQHMLC.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-DOEQHMLC.js";
 import {
   VFile
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-MWXHQG25.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-MWXHQG25.js";
 import {
   AdmonitionKind,
   NotebookCell,
@@ -53,13 +53,13 @@ import {
   setTextAsChild,
   toText,
   transferTargetAttrs
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-Q6DHUCUI.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-Q6DHUCUI.js";
 import {
   visit
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-LPSXN4QV.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-LPSXN4QV.js";
 import {
   __export
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/myst-frontmatter/dist/utils/fillPageFrontmatter.js
 function fillSiteFrontmatter(base2, filler, opts, keys, trimUnused) {
@@ -30917,4 +30917,4 @@ export {
   basicTransformationsPlugin,
   getFrontmatter
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-NT723IVF.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/chunk-NT723IVF.js.map

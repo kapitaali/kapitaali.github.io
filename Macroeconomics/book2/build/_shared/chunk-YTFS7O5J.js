@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/entities/lib/maps/entities.json
 var require_entities = __commonJS({
@@ -710,4 +710,4 @@ export {
   require_utils,
   u
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-YTFS7O5J.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/chunk-YTFS7O5J.js.map

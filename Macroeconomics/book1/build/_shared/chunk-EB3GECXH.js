@@ -1,16 +1,16 @@
 import {
   getDiagramElement
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-725C7MY3.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-725C7MY3.js";
 import {
   setupViewPortForSVG
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-WMU6LCGH.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-WMU6LCGH.js";
 import {
   render
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-QDIBAP63.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-QDIBAP63.js";
 import {
   generateId,
   utils_default
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-WEDXSMQA.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-WEDXSMQA.js";
 import {
   clear,
   common_default,
@@ -21,11 +21,11 @@ import {
   setAccDescription,
   setAccTitle,
   setDiagramTitle
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-463FZTZ7.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-463FZTZ7.js";
 import {
   __name,
   log
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-7PDOACA3.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-7PDOACA3.js";
 
 // ../../node_modules/mermaid/dist/chunks/mermaid.core/chunk-DI55MBZ5.mjs
 var parser = function() {
@@ -2021,4 +2021,4 @@ export {
   StateDB,
   styles_default
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-EB3GECXH.js.map
+//# sourceMappingURL=/Macroeconomics/book1/build/_shared/chunk-EB3GECXH.js.map

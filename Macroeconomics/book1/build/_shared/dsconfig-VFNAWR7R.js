@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/dsconfig.js
 var require_dsconfig = __commonJS({
@@ -64,4 +64,4 @@ var require_dsconfig = __commonJS({
   }
 });
 export default require_dsconfig();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/dsconfig-VFNAWR7R.js.map
+//# sourceMappingURL=/Macroeconomics/book1/build/_shared/dsconfig-VFNAWR7R.js.map

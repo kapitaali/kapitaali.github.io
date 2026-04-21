@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/gradle.js
 var require_gradle = __commonJS({
@@ -26,4 +26,4 @@ var require_gradle = __commonJS({
   }
 });
 export default require_gradle();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/gradle-6D3GYEMJ.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/_shared/gradle-6D3GYEMJ.js.map

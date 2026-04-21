@@ -1,6 +1,6 @@
 import {
   __esm
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/fcl.js
 function tokenBase(stream, state) {
@@ -161,4 +161,4 @@ init_fcl();
 export {
   fcl
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/fcl-OTXATFYE.js.map
+//# sourceMappingURL=/Macroeconomics/book1/build/_shared/fcl-OTXATFYE.js.map

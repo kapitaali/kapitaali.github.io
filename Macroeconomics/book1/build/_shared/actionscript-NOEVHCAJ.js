@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/actionscript.js
 var require_actionscript = __commonJS({
@@ -92,4 +92,4 @@ var require_actionscript = __commonJS({
   }
 });
 export default require_actionscript();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/actionscript-NOEVHCAJ.js.map
+//# sourceMappingURL=/Macroeconomics/book1/build/_shared/actionscript-NOEVHCAJ.js.map

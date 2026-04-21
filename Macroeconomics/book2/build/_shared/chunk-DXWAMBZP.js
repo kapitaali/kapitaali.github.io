@@ -23,10 +23,10 @@ import {
   init_dist5 as init_dist3,
   keymap,
   syntaxTree
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-3I3NFLZ5.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-3I3NFLZ5.js";
 import {
   __esm
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/autocomplete/dist/index.js
 function toSet(chars) {
@@ -731,4 +731,4 @@ export {
   closeBracketsKeymap,
   init_dist4 as init_dist
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-DXWAMBZP.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/chunk-DXWAMBZP.js.map

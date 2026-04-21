@@ -1,4 +1,4 @@
-import "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
+import "/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/mermaid/node_modules/katex/dist/katex.mjs
 var SourceLocation = class {
@@ -14533,4 +14533,4 @@ export {
   renderToString,
   version
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/katex-LWHGFBWL.js.map
+//# sourceMappingURL=/Macroeconomics/book1/build/_shared/katex-LWHGFBWL.js.map

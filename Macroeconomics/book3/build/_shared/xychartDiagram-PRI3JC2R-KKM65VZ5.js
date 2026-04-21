@@ -1,13 +1,13 @@
 import {
   selectSvgElement
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-YZZVRB5P.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-YZZVRB5P.js";
 import {
   computeDimensionOfText
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-V6SU7KPH.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-V6SU7KPH.js";
 import {
   cleanAndMerge
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-WEDXSMQA.js";
-import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-6CUK2GM5.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-WEDXSMQA.js";
+import "/Macroeconomics/book3/build/_shared/chunk-6CUK2GM5.js";
 import {
   clear,
   configureSvgSize,
@@ -21,17 +21,17 @@ import {
   setAccDescription,
   setAccTitle,
   setDiagramTitle
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-463FZTZ7.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-463FZTZ7.js";
 import {
   __name,
   band,
   line_default,
   linear,
   log
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-7PDOACA3.js";
-import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-T7QTAV5N.js";
-import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-2WW6JOYG.js";
-import "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-7PDOACA3.js";
+import "/Macroeconomics/book3/build/_shared/chunk-T7QTAV5N.js";
+import "/Macroeconomics/book3/build/_shared/chunk-2WW6JOYG.js";
+import "/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/mermaid/dist/chunks/mermaid.core/xychartDiagram-PRI3JC2R.mjs
 var parser = function() {
@@ -1935,4 +1935,4 @@ var diagram = {
 export {
   diagram
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/xychartDiagram-PRI3JC2R-KKM65VZ5.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/_shared/xychartDiagram-PRI3JC2R-KKM65VZ5.js.map

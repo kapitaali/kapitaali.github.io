@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/aspectj.js
 var require_aspectj = __commonJS({
@@ -161,4 +161,4 @@ var require_aspectj = __commonJS({
   }
 });
 export default require_aspectj();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/aspectj-XONGF66R.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/_shared/aspectj-XONGF66R.js.map

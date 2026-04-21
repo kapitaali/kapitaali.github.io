@@ -23,10 +23,10 @@ import {
   overArg_default,
   root_default,
   toSource_default
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-T7QTAV5N.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-T7QTAV5N.js";
 import {
   __esm
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/lodash-es/_nativeKeys.js
 var nativeKeys, nativeKeys_default;
@@ -204,4 +204,4 @@ export {
   isEmpty_default,
   init_isEmpty
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-SP2MKLPW.js.map
+//# sourceMappingURL=/Macroeconomics/book1/build/_shared/chunk-SP2MKLPW.js.map

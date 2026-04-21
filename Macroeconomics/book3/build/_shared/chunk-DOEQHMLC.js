@@ -2706,4 +2706,4 @@ export {
 js-yaml/dist/js-yaml.mjs:
   (*! js-yaml 4.1.1 https://github.com/nodeca/js-yaml @license MIT *)
 */
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-DOEQHMLC.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/_shared/chunk-DOEQHMLC.js.map

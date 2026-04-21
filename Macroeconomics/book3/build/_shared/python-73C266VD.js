@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/python.js
 var require_python = __commonJS({
@@ -412,4 +412,4 @@ var require_python = __commonJS({
   }
 });
 export default require_python();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/_shared/python-73C266VD.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/_shared/python-73C266VD.js.map

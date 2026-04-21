@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book3/build/_shared/chunk-CGOEG7L2.js";
 
 // browser-route-module:routes/api.theme.tsx?browser
 var require_api_theme = __commonJS({
@@ -9,4 +9,4 @@ var require_api_theme = __commonJS({
   }
 });
 export default require_api_theme();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book3/build/routes/api.theme-LTUSCXVD.js.map
+//# sourceMappingURL=/Macroeconomics/book3/build/routes/api.theme-LTUSCXVD.js.map

@@ -1,10 +1,10 @@
 import {
   init_javascript,
   javascript
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-5IUD4EPL.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-5IUD4EPL.js";
 import {
   __esm
-} from "https://kapitaali.github.io/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book1/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/pug.js
 function defaultCopyState(state) {
@@ -421,4 +421,4 @@ init_pug();
 export {
   pug
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book1/build/_shared/pug-4NBNMFSZ.js.map
+//# sourceMappingURL=/Macroeconomics/book1/build/_shared/pug-4NBNMFSZ.js.map

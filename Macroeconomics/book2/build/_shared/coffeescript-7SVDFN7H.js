@@ -1,6 +1,6 @@
 import {
   __commonJS
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/highlight.js/lib/languages/coffeescript.js
 var require_coffeescript = __commonJS({
@@ -346,4 +346,4 @@ var require_coffeescript = __commonJS({
   }
 });
 export default require_coffeescript();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/coffeescript-7SVDFN7H.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/coffeescript-7SVDFN7H.js.map

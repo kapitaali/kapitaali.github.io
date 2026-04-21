@@ -1,6 +1,6 @@
 import {
   require_web_idl
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-2QD4PBIG.js";
-import "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-2QD4PBIG.js";
+import "/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 export default require_web_idl();
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/web-idl-FUDTEJSB.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/web-idl-FUDTEJSB.js.map

@@ -1,6 +1,6 @@
 import {
   __esm
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-CGOEG7L2.js";
 
 // ../../node_modules/@codemirror/legacy-modes/mode/idl.js
 function wordRegexp(words) {
@@ -995,4 +995,4 @@ init_idl();
 export {
   idl
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/idl-GEK5X7P5.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/idl-GEK5X7P5.js.map

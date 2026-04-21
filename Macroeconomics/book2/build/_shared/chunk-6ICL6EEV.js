@@ -1,6 +1,6 @@
 import {
   __name
-} from "https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-7PDOACA3.js";
+} from "/Macroeconomics/book2/build/_shared/chunk-7PDOACA3.js";
 
 // ../../node_modules/mermaid/dist/chunks/mermaid.core/chunk-CVBHYZKI.mjs
 var getSubGraphTitleMargins = /* @__PURE__ */ __name(({
@@ -19,4 +19,4 @@ var getSubGraphTitleMargins = /* @__PURE__ */ __name(({
 export {
   getSubGraphTitleMargins
 };
-//# sourceMappingURL=https://kapitaali.github.io/Macroeconomics/book2/build/_shared/chunk-6ICL6EEV.js.map
+//# sourceMappingURL=/Macroeconomics/book2/build/_shared/chunk-6ICL6EEV.js.map
